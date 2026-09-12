@@ -1,0 +1,1244 @@
+{
+  "method": "Small within-image shape comparison, not OCR or a probability model.\n\nManual reference labels are provisional readings of clearer local forms.\nComparison is restricted to explicitly listed alternatives and can be wrong.\nCoordinates and processing settings are exported for audit.\n",
+  "references": {
+    "aleph_said": {
+      "letter": "aleph",
+      "box": [
+        1088,
+        739,
+        1126,
+        773
+      ]
+    },
+    "aleph_god": {
+      "letter": "aleph",
+      "box": [
+        829,
+        551,
+        864,
+        592
+      ]
+    },
+    "aleph_light": {
+      "letter": "aleph",
+      "box": [
+        637,
+        550,
+        668,
+        591
+      ]
+    },
+    "resh_light": {
+      "letter": "resh",
+      "box": [
+        577,
+        548,
+        613,
+        593
+      ]
+    },
+    "he_god": {
+      "letter": "he",
+      "box": [
+        772,
+        550,
+        801,
+        591
+      ]
+    },
+    "he_and_be": {
+      "letter": "he",
+      "box": [
+        265,
+        735,
+        306,
+        775
+      ]
+    },
+    "yod_said": {
+      "letter": "yod",
+      "box": [
+        1128,
+        740,
+        1153,
+        773
+      ]
+    },
+    "yod_god": {
+      "letter": "yod",
+      "box": [
+        751,
+        549,
+        772,
+        590
+      ]
+    },
+    "vav_said": {
+      "letter": "vav",
+      "box": [
+        1152,
+        738,
+        1180,
+        779
+      ]
+    },
+    "vav_day": {
+      "letter": "vav",
+      "box": [
+        509,
+        548,
+        529,
+        590
+      ]
+    },
+    "mem_waters": {
+      "letter": "mem",
+      "box": [
+        431,
+        718,
+        465,
+        768
+      ]
+    },
+    "final_mem_god": {
+      "letter": "final_mem",
+      "box": [
+        710,
+        546,
+        752,
+        604
+      ]
+    },
+    "final_mem_day2": {
+      "letter": "final_mem",
+      "box": [
+        1045,
+        960,
+        1090,
+        1015
+      ]
+    },
+    "bet_good": {
+      "letter": "bet",
+      "box": [
+        440,
+        461,
+        483,
+        505
+      ]
+    },
+    "bet_good_bottom": {
+      "letter": "bet",
+      "box": [
+        561,
+        1183,
+        602,
+        1222
+      ]
+    },
+    "pe_surface": {
+      "letter": "pe",
+      "box": [
+        399,
+        398,
+        429,
+        443
+      ]
+    },
+    "nun_surface": {
+      "letter": "nun",
+      "box": [
+        384,
+        402,
+        401,
+        444
+      ]
+    }
+  },
+  "targets": {
+    "C_third_letter": {
+      "box": [
+        285,
+        1185,
+        314,
+        1219
+      ],
+      "alternatives": [
+        "aleph",
+        "resh",
+        "he",
+        "yod"
+      ],
+      "exclude": [
+        [
+          0,
+          24,
+          5,
+          34
+        ]
+      ],
+      "settings": [
+        {
+          "level": 65,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.802
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.7599
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7594
+            },
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.7372
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.7193
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.6789
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.6491
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6003
+            }
+          ]
+        },
+        {
+          "level": 75,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.8113
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.7893
+            },
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.7709
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7642
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.7624
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.7189
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7121
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6287
+            }
+          ]
+        },
+        {
+          "level": 85,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.8094
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.7927
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.79
+            },
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.7881
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7599
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.7509
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7375
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6288
+            }
+          ]
+        },
+        {
+          "level": 95,
+          "ranking": [
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.8185
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.8151
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.8083
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.7918
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.7834
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7595
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7503
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6313
+            }
+          ]
+        },
+        {
+          "level": 105,
+          "ranking": [
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.8709
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.8703
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.8655
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.8367
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.8127
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7931
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7346
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6808
+            }
+          ]
+        }
+      ]
+    },
+    "A_left_letter": {
+      "box": [
+        1062,
+        365,
+        1091,
+        399
+      ],
+      "alternatives": [
+        "aleph",
+        "yod",
+        "he"
+      ],
+      "exclude": [
+        [
+          0,
+          17,
+          8,
+          34
+        ],
+        [
+          8,
+          28,
+          12,
+          34
+        ]
+      ],
+      "settings": [
+        {
+          "level": 65,
+          "ranking": [
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.8091
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.8038
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.786
+            },
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.7737
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.739
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7272
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6265
+            }
+          ]
+        },
+        {
+          "level": 75,
+          "ranking": [
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.833
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.8238
+            },
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.8065
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.7921
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.7811
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7307
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6386
+            }
+          ]
+        },
+        {
+          "level": 85,
+          "ranking": [
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.8408
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.837
+            },
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.8258
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.8125
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.7829
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7451
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6409
+            }
+          ]
+        },
+        {
+          "level": 95,
+          "ranking": [
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.8501
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.8462
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.8416
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.8413
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.8282
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7645
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6531
+            }
+          ]
+        },
+        {
+          "level": 105,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.8742
+            },
+            {
+              "reference": "he_god",
+              "letter": "he",
+              "score": 0.8716
+            },
+            {
+              "reference": "he_and_be",
+              "letter": "he",
+              "score": 0.8606
+            },
+            {
+              "reference": "aleph_said",
+              "letter": "aleph",
+              "score": 0.8579
+            },
+            {
+              "reference": "aleph_light",
+              "letter": "aleph",
+              "score": 0.8362
+            },
+            {
+              "reference": "aleph_god",
+              "letter": "aleph",
+              "score": 0.7835
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6618
+            }
+          ]
+        }
+      ]
+    },
+    "A_right_letter": {
+      "box": [
+        1126,
+        361,
+        1164,
+        402
+      ],
+      "alternatives": [
+        "bet",
+        "pe",
+        "resh"
+      ],
+      "exclude": [],
+      "settings": [
+        {
+          "level": 65,
+          "ranking": [
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7609
+            },
+            {
+              "reference": "bet_good_bottom",
+              "letter": "bet",
+              "score": 0.7305
+            },
+            {
+              "reference": "pe_surface",
+              "letter": "pe",
+              "score": 0.6457
+            },
+            {
+              "reference": "bet_good",
+              "letter": "bet",
+              "score": 0.6365
+            }
+          ]
+        },
+        {
+          "level": 75,
+          "ranking": [
+            {
+              "reference": "bet_good_bottom",
+              "letter": "bet",
+              "score": 0.7604
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7458
+            },
+            {
+              "reference": "bet_good",
+              "letter": "bet",
+              "score": 0.6584
+            },
+            {
+              "reference": "pe_surface",
+              "letter": "pe",
+              "score": 0.6547
+            }
+          ]
+        },
+        {
+          "level": 85,
+          "ranking": [
+            {
+              "reference": "bet_good_bottom",
+              "letter": "bet",
+              "score": 0.7966
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7358
+            },
+            {
+              "reference": "bet_good",
+              "letter": "bet",
+              "score": 0.6939
+            },
+            {
+              "reference": "pe_surface",
+              "letter": "pe",
+              "score": 0.6749
+            }
+          ]
+        },
+        {
+          "level": 95,
+          "ranking": [
+            {
+              "reference": "bet_good_bottom",
+              "letter": "bet",
+              "score": 0.814
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.7269
+            },
+            {
+              "reference": "bet_good",
+              "letter": "bet",
+              "score": 0.7048
+            },
+            {
+              "reference": "pe_surface",
+              "letter": "pe",
+              "score": 0.6985
+            }
+          ]
+        },
+        {
+          "level": 105,
+          "ranking": [
+            {
+              "reference": "bet_good_bottom",
+              "letter": "bet",
+              "score": 0.7907
+            },
+            {
+              "reference": "pe_surface",
+              "letter": "pe",
+              "score": 0.7366
+            },
+            {
+              "reference": "bet_good",
+              "letter": "bet",
+              "score": 0.7265
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.6915
+            }
+          ]
+        }
+      ]
+    },
+    "A_middle_letter": {
+      "box": [
+        1090,
+        361,
+        1125,
+        402
+      ],
+      "alternatives": [
+        "resh",
+        "nun",
+        "yod"
+      ],
+      "exclude": [],
+      "settings": [
+        {
+          "level": 65,
+          "ranking": [
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6064
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.5995
+            },
+            {
+              "reference": "nun_surface",
+              "letter": "nun",
+              "score": 0.5924
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.4683
+            }
+          ]
+        },
+        {
+          "level": 75,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.5771
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.5256
+            },
+            {
+              "reference": "nun_surface",
+              "letter": "nun",
+              "score": 0.5106
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.4853
+            }
+          ]
+        },
+        {
+          "level": 85,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.5721
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.5466
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.4119
+            },
+            {
+              "reference": "nun_surface",
+              "letter": "nun",
+              "score": 0.4064
+            }
+          ]
+        },
+        {
+          "level": 95,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.5797
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.5434
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.4428
+            },
+            {
+              "reference": "nun_surface",
+              "letter": "nun",
+              "score": 0.3727
+            }
+          ]
+        },
+        {
+          "level": 105,
+          "ranking": [
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.6044
+            },
+            {
+              "reference": "resh_light",
+              "letter": "resh",
+              "score": 0.5726
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.4679
+            },
+            {
+              "reference": "nun_surface",
+              "letter": "nun",
+              "score": 0.3852
+            }
+          ]
+        }
+      ]
+    },
+    "B_extra_form": {
+      "box": [
+        474,
+        541,
+        503,
+        586
+      ],
+      "alternatives": [
+        "mem",
+        "yod",
+        "vav",
+        "final_mem"
+      ],
+      "exclude": [],
+      "settings": [
+        {
+          "level": 65,
+          "ranking": [
+            {
+              "reference": "final_mem_day2",
+              "letter": "final_mem",
+              "score": 0.7482
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.7287
+            },
+            {
+              "reference": "mem_waters",
+              "letter": "mem",
+              "score": 0.7172
+            },
+            {
+              "reference": "final_mem_god",
+              "letter": "final_mem",
+              "score": 0.6814
+            },
+            {
+              "reference": "vav_said",
+              "letter": "vav",
+              "score": 0.6516
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6393
+            },
+            {
+              "reference": "vav_day",
+              "letter": "vav",
+              "score": 0.577
+            }
+          ]
+        },
+        {
+          "level": 75,
+          "ranking": [
+            {
+              "reference": "final_mem_day2",
+              "letter": "final_mem",
+              "score": 0.7681
+            },
+            {
+              "reference": "mem_waters",
+              "letter": "mem",
+              "score": 0.7495
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.7397
+            },
+            {
+              "reference": "final_mem_god",
+              "letter": "final_mem",
+              "score": 0.7002
+            },
+            {
+              "reference": "vav_said",
+              "letter": "vav",
+              "score": 0.6576
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6535
+            },
+            {
+              "reference": "vav_day",
+              "letter": "vav",
+              "score": 0.5969
+            }
+          ]
+        },
+        {
+          "level": 85,
+          "ranking": [
+            {
+              "reference": "mem_waters",
+              "letter": "mem",
+              "score": 0.8015
+            },
+            {
+              "reference": "final_mem_day2",
+              "letter": "final_mem",
+              "score": 0.786
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.7493
+            },
+            {
+              "reference": "final_mem_god",
+              "letter": "final_mem",
+              "score": 0.7266
+            },
+            {
+              "reference": "vav_said",
+              "letter": "vav",
+              "score": 0.6917
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6697
+            },
+            {
+              "reference": "vav_day",
+              "letter": "vav",
+              "score": 0.5684
+            }
+          ]
+        },
+        {
+          "level": 95,
+          "ranking": [
+            {
+              "reference": "mem_waters",
+              "letter": "mem",
+              "score": 0.8355
+            },
+            {
+              "reference": "final_mem_day2",
+              "letter": "final_mem",
+              "score": 0.8053
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.7736
+            },
+            {
+              "reference": "final_mem_god",
+              "letter": "final_mem",
+              "score": 0.7408
+            },
+            {
+              "reference": "vav_said",
+              "letter": "vav",
+              "score": 0.6937
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.6849
+            },
+            {
+              "reference": "vav_day",
+              "letter": "vav",
+              "score": 0.5848
+            }
+          ]
+        },
+        {
+          "level": 105,
+          "ranking": [
+            {
+              "reference": "mem_waters",
+              "letter": "mem",
+              "score": 0.8362
+            },
+            {
+              "reference": "final_mem_day2",
+              "letter": "final_mem",
+              "score": 0.7841
+            },
+            {
+              "reference": "yod_said",
+              "letter": "yod",
+              "score": 0.7814
+            },
+            {
+              "reference": "vav_said",
+              "letter": "vav",
+              "score": 0.7361
+            },
+            {
+              "reference": "final_mem_god",
+              "letter": "final_mem",
+              "score": 0.7269
+            },
+            {
+              "reference": "yod_god",
+              "letter": "yod",
+              "score": 0.7104
+            },
+            {
+              "reference": "vav_day",
+              "letter": "vav",
+              "score": 0.6267
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "leave_one_out_at_level_85": [
+    {
+      "reference": "aleph_said",
+      "label": "aleph",
+      "nearest": "aleph_god",
+      "predicted": "aleph",
+      "score": 0.8732,
+      "match": true
+    },
+    {
+      "reference": "aleph_god",
+      "label": "aleph",
+      "nearest": "aleph_said",
+      "predicted": "aleph",
+      "score": 0.8732,
+      "match": true
+    },
+    {
+      "reference": "aleph_light",
+      "label": "aleph",
+      "nearest": "aleph_god",
+      "predicted": "aleph",
+      "score": 0.7975,
+      "match": true
+    },
+    {
+      "reference": "he_god",
+      "label": "he",
+      "nearest": "final_mem_day2",
+      "predicted": "final_mem",
+      "score": 0.8355,
+      "match": false
+    },
+    {
+      "reference": "he_and_be",
+      "label": "he",
+      "nearest": "bet_good_bottom",
+      "predicted": "bet",
+      "score": 0.8403,
+      "match": false
+    },
+    {
+      "reference": "yod_said",
+      "label": "yod",
+      "nearest": "vav_said",
+      "predicted": "vav",
+      "score": 0.8448,
+      "match": false
+    },
+    {
+      "reference": "yod_god",
+      "label": "yod",
+      "nearest": "vav_said",
+      "predicted": "vav",
+      "score": 0.8626,
+      "match": false
+    },
+    {
+      "reference": "vav_said",
+      "label": "vav",
+      "nearest": "vav_day",
+      "predicted": "vav",
+      "score": 0.8634,
+      "match": true
+    },
+    {
+      "reference": "vav_day",
+      "label": "vav",
+      "nearest": "vav_said",
+      "predicted": "vav",
+      "score": 0.8634,
+      "match": true
+    },
+    {
+      "reference": "final_mem_god",
+      "label": "final_mem",
+      "nearest": "final_mem_day2",
+      "predicted": "final_mem",
+      "score": 0.8026,
+      "match": true
+    },
+    {
+      "reference": "final_mem_day2",
+      "label": "final_mem",
+      "nearest": "he_god",
+      "predicted": "he",
+      "score": 0.8355,
+      "match": false
+    },
+    {
+      "reference": "bet_good",
+      "label": "bet",
+      "nearest": "bet_good_bottom",
+      "predicted": "bet",
+      "score": 0.7395,
+      "match": true
+    },
+    {
+      "reference": "bet_good_bottom",
+      "label": "bet",
+      "nearest": "he_and_be",
+      "predicted": "he",
+      "score": 0.8403,
+      "match": false
+    }
+  ],
+  "warning": "Manual labels, tiny convenience sample, some classes have one reference. Scores are shape overlaps, NOT calibrated reading confidence. Masks exclude specified damaged-edge rectangles only."
+}

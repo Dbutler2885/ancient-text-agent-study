@@ -1,0 +1,2543 @@
+{
+  "source": {
+    "title": "Mechon Mamre, Genesis 1, Hebrew text",
+    "url": "https://mechon-mamre.org/p/pt/pt0101.htm",
+    "consulted": "2026-09-12",
+    "scope": "Genesis 1:1-11 only",
+    "provenance": "Direct page access for the user-requested textual-location layer. No image search or manuscript identification.",
+    "normalization": "Consonants only; pointing, cantillation and punctuation removed; maqaf separated into tokens. Consonantal spellings not harmonized to the image."
+  },
+  "reference_verses": {
+    "1": "בראשית ברא אלהים את השמים ואת הארץ",
+    "2": "והארץ היתה תהו ובהו וחשך על פני תהום ורוח אלהים מרחפת על פני המים",
+    "3": "ויאמר אלהים יהי אור ויהי אור",
+    "4": "וירא אלהים את האור כי טוב ויבדל אלהים בין האור ובין החשך",
+    "5": "ויקרא אלהים לאור יום ולחשך קרא לילה ויהי ערב ויהי בקר יום אחד",
+    "6": "ויאמר אלהים יהי רקיע בתוך המים ויהי מבדיל בין מים למים",
+    "7": "ויעש אלהים את הרקיע ויבדל בין המים אשר מתחת לרקיע ובין המים אשר מעל לרקיע ויהי כן",
+    "8": "ויקרא אלהים לרקיע שמים ויהי ערב ויהי בקר יום שני",
+    "9": "ויאמר אלהים יקוו המים מתחת השמים אל מקום אחד ותראה היבשה ויהי כן",
+    "10": "ויקרא אלהים ליבשה ארץ ולמקוה המים קרא ימים וירא אלהים כי טוב",
+    "11": "ויאמר אלהים תדשא הארץ דשא עשב מזריע זרע עץ פרי עשה פרי למינו אשר זרעו בו על הארץ ויהי כן"
+  },
+  "rows": [
+    {
+      "id": "S01",
+      "tokens": [
+        {
+          "id": "S01.W01",
+          "text": "אלהים",
+          "box": [
+            835,
+            280,
+            1010,
+            389
+          ],
+          "status": "readable",
+          "file": "word-S01.W01.png"
+        },
+        {
+          "id": "S01.W02",
+          "text": "את",
+          "box": [
+            750,
+            310,
+            835,
+            377
+          ],
+          "status": "readable",
+          "file": "word-S01.W02.png"
+        },
+        {
+          "id": "S01.W03",
+          "text": "השמים",
+          "box": [
+            552,
+            300,
+            748,
+            376
+          ],
+          "status": "readable",
+          "file": "word-S01.W03.png"
+        },
+        {
+          "id": "S01.W04",
+          "text": "ואת",
+          "box": [
+            440,
+            294,
+            552,
+            366
+          ],
+          "status": "readable",
+          "file": "word-S01.W04.png"
+        },
+        {
+          "id": "S01.W05",
+          "text": "הארץ",
+          "box": [
+            281,
+            292,
+            440,
+            368
+          ],
+          "status": "readable",
+          "file": "word-S01.W05.png"
+        }
+      ],
+      "location": "Genesis 1:1",
+      "strength": "Strong phrase alignment",
+      "note": "The sequence of five visible words matches the end of the verse.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:1.3",
+          "end": "1:1.7",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "השמים",
+            "ואת",
+            "הארץ"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.48,
+          "start": "1:7.2",
+          "end": "1:7.6",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "הרקיע",
+            "ויבדל",
+            "בין"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.54,
+          "start": "1:8.2",
+          "end": "1:8.6",
+          "reference_tokens": [
+            "אלהים",
+            "לרקיע",
+            "שמים",
+            "ויהי",
+            "ערב"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.55,
+          "start": "1:9.2",
+          "end": "1:9.6",
+          "reference_tokens": [
+            "אלהים",
+            "יקוו",
+            "המים",
+            "מתחת",
+            "השמים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.56,
+          "start": "1:4.2",
+          "end": "1:4.6",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "האור",
+            "כי",
+            "טוב"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "tokens": [
+        {
+          "id": "S02.W01",
+          "text": "ב̣ר̣א̣",
+          "box": [
+            1030,
+            345,
+            1180,
+            418
+          ],
+          "status": "uncertain",
+          "file": "word-S02.W01.png"
+        }
+      ],
+      "location": "Genesis 1:1?",
+      "strength": "Conditional",
+      "note": "If the image-only candidate ברא is right, it precedes S01 in this verse. The text cannot establish its damaged letters or prove a physical join.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.1,
+          "start": "1:1.2",
+          "end": "1:1.2",
+          "reference_tokens": [
+            "ברא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.3667,
+          "start": "1:5.6",
+          "end": "1:5.6",
+          "reference_tokens": [
+            "קרא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.3667,
+          "start": "1:10.7",
+          "end": "1:10.7",
+          "reference_tokens": [
+            "קרא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5,
+          "start": "1:1.1",
+          "end": "1:1.1",
+          "reference_tokens": [
+            "בראשית"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5,
+          "start": "1:4.1",
+          "end": "1:4.1",
+          "reference_tokens": [
+            "וירא"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "tokens": [
+        {
+          "id": "S03.W01",
+          "text": "ורוח",
+          "box": [
+            885,
+            404,
+            1030,
+            472
+          ],
+          "status": "readable",
+          "file": "word-S03.W01.png"
+        },
+        {
+          "id": "S03.W02",
+          "text": "אלהים",
+          "box": [
+            708,
+            372,
+            885,
+            471
+          ],
+          "status": "readable",
+          "file": "word-S03.W02.png"
+        },
+        {
+          "id": "S03.W03",
+          "text": "מרחפת",
+          "box": [
+            512,
+            395,
+            708,
+            463
+          ],
+          "status": "readable",
+          "file": "word-S03.W03.png"
+        },
+        {
+          "id": "S03.W04",
+          "text": "על",
+          "box": [
+            425,
+            350,
+            506,
+            445
+          ],
+          "status": "readable",
+          "file": "word-S03.W04.png"
+        },
+        {
+          "id": "S03.W05",
+          "text": "פני",
+          "box": [
+            348,
+            392,
+            430,
+            452
+          ],
+          "status": "readable",
+          "file": "word-S03.W05.png"
+        },
+        {
+          "id": "S03.W06",
+          "text": "המים",
+          "box": [
+            174,
+            375,
+            348,
+            460
+          ],
+          "status": "readable",
+          "file": "word-S03.W06.png"
+        }
+      ],
+      "location": "Genesis 1:2",
+      "strength": "Strong phrase alignment",
+      "note": "The six-word sequence identifies the latter part of the verse.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:2.9",
+          "end": "1:2.14",
+          "reference_tokens": [
+            "ורוח",
+            "אלהים",
+            "מרחפת",
+            "על",
+            "פני",
+            "המים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5167,
+          "start": "1:2.3",
+          "end": "1:2.8",
+          "reference_tokens": [
+            "תהו",
+            "ובהו",
+            "וחשך",
+            "על",
+            "פני",
+            "תהום"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6333,
+          "start": "1:6.1",
+          "end": "1:6.6",
+          "reference_tokens": [
+            "ויאמר",
+            "אלהים",
+            "יהי",
+            "רקיע",
+            "בתוך",
+            "המים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6333,
+          "start": "1:10.1",
+          "end": "1:10.6",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "ליבשה",
+            "ארץ",
+            "ולמקוה",
+            "המים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6583,
+          "start": "1:7.7",
+          "end": "1:7.12",
+          "reference_tokens": [
+            "המים",
+            "אשר",
+            "מתחת",
+            "לרקיע",
+            "ובין",
+            "המים"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "tokens": [
+        {
+          "id": "S04.W01",
+          "text": "◊[…]הים",
+          "box": [
+            869,
+            464,
+            1098,
+            536
+          ],
+          "status": "partial",
+          "file": "word-S04.W01.png"
+        },
+        {
+          "id": "S04.W02",
+          "text": "את",
+          "box": [
+            772,
+            462,
+            865,
+            522
+          ],
+          "status": "readable",
+          "file": "word-S04.W02.png"
+        },
+        {
+          "id": "S04.W03",
+          "text": "האור",
+          "box": [
+            621,
+            462,
+            773,
+            522
+          ],
+          "status": "readable",
+          "file": "word-S04.W03.png"
+        },
+        {
+          "id": "S04.W04",
+          "text": "כי",
+          "box": [
+            554,
+            463,
+            619,
+            522
+          ],
+          "status": "readable",
+          "file": "word-S04.W04.png"
+        },
+        {
+          "id": "S04.W05",
+          "text": "טוב",
+          "box": [
+            439,
+            455,
+            556,
+            515
+          ],
+          "status": "readable",
+          "file": "word-S04.W05.png"
+        },
+        {
+          "id": "S04.W06",
+          "text": "ויבדל",
+          "box": [
+            279,
+            435,
+            438,
+            519
+          ],
+          "status": "readable",
+          "file": "word-S04.W06.png"
+        },
+        {
+          "id": "S04.W07",
+          "text": "אלה[…]",
+          "box": [
+            165,
+            432,
+            278,
+            498
+          ],
+          "status": "partial",
+          "file": "word-S04.W07.png"
+        }
+      ],
+      "location": "Genesis 1:4",
+      "strength": "Strong phrase alignment",
+      "note": "The middle sequence is distinctive despite damaged words at both ends.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0429,
+          "start": "1:4.2",
+          "end": "1:4.8",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "האור",
+            "כי",
+            "טוב",
+            "ויבדל",
+            "אלהים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5071,
+          "start": "1:10.8",
+          "end": "1:11.2",
+          "reference_tokens": [
+            "ימים",
+            "וירא",
+            "אלהים",
+            "כי",
+            "טוב",
+            "ויאמר",
+            "אלהים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5095,
+          "start": "1:3.2",
+          "end": "1:4.2",
+          "reference_tokens": [
+            "אלהים",
+            "יהי",
+            "אור",
+            "ויהי",
+            "אור",
+            "וירא",
+            "אלהים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5214,
+          "start": "1:4.8",
+          "end": "1:5.2",
+          "reference_tokens": [
+            "אלהים",
+            "בין",
+            "האור",
+            "ובין",
+            "החשך",
+            "ויקרא",
+            "אלהים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6238,
+          "start": "1:2.10",
+          "end": "1:3.2",
+          "reference_tokens": [
+            "אלהים",
+            "מרחפת",
+            "על",
+            "פני",
+            "המים",
+            "ויאמר",
+            "אלהים"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "tokens": [
+        {
+          "id": "S05.W01",
+          "text": "אלהים",
+          "box": [
+            705,
+            505,
+            875,
+            611
+          ],
+          "status": "readable",
+          "file": "word-S05.W01.png"
+        },
+        {
+          "id": "S05.W02",
+          "text": "לאור",
+          "box": [
+            573,
+            503,
+            704,
+            603
+          ],
+          "status": "readable",
+          "file": "word-S05.W02.png"
+        },
+        {
+          "id": "S05.W03",
+          "text": "יומם",
+          "box": [
+            416,
+            530,
+            560,
+            598
+          ],
+          "status": "readable",
+          "file": "word-S05.W03.png"
+        },
+        {
+          "id": "S05.W04",
+          "text": "ולחשך",
+          "box": [
+            244,
+            493,
+            416,
+            602
+          ],
+          "status": "readable",
+          "file": "word-S05.W04.png"
+        },
+        {
+          "id": "S05.W05",
+          "text": "קר[…]",
+          "box": [
+            170,
+            516,
+            244,
+            596
+          ],
+          "status": "partial",
+          "file": "word-S05.W05.png"
+        }
+      ],
+      "location": "Genesis 1:5",
+      "strength": "Strong phrase alignment; spelling difference",
+      "note": "The surrounding words locate the phrase. Image reading יומם differs from reference יום and is not normalized away.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.08,
+          "start": "1:5.2",
+          "end": "1:5.6",
+          "reference_tokens": [
+            "אלהים",
+            "לאור",
+            "יום",
+            "ולחשך",
+            "קרא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.52,
+          "start": "1:4.9",
+          "end": "1:5.1",
+          "reference_tokens": [
+            "בין",
+            "האור",
+            "ובין",
+            "החשך",
+            "ויקרא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.61,
+          "start": "1:1.3",
+          "end": "1:1.7",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "השמים",
+            "ואת",
+            "הארץ"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6433,
+          "start": "1:8.2",
+          "end": "1:8.6",
+          "reference_tokens": [
+            "אלהים",
+            "לרקיע",
+            "שמים",
+            "ויהי",
+            "ערב"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.66,
+          "start": "1:9.2",
+          "end": "1:9.6",
+          "reference_tokens": [
+            "אלהים",
+            "יקוו",
+            "המים",
+            "מתחת",
+            "השמים"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "tokens": [
+        {
+          "id": "S06.W01",
+          "text": "ויקרא",
+          "box": [
+            1035,
+            574,
+            1200,
+            645
+          ],
+          "status": "readable",
+          "file": "word-S06.W01.png"
+        }
+      ],
+      "location": "Genesis 1:5?",
+      "strength": "Context-dependent",
+      "note": "ויקרא alone also occurs in 1:8 and 1:10. Its placement to the right of S05 favors 1:5.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:5.1",
+          "end": "1:5.1",
+          "reference_tokens": [
+            "ויקרא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:8.1",
+          "end": "1:8.1",
+          "reference_tokens": [
+            "ויקרא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:10.1",
+          "end": "1:10.1",
+          "reference_tokens": [
+            "ויקרא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.2,
+          "start": "1:4.1",
+          "end": "1:4.1",
+          "reference_tokens": [
+            "וירא"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.2,
+          "start": "1:10.9",
+          "end": "1:10.9",
+          "reference_tokens": [
+            "וירא"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "tokens": [
+        {
+          "id": "S07.W01",
+          "text": "יום",
+          "box": [
+            1092,
+            656,
+            1194,
+            730
+          ],
+          "status": "readable",
+          "file": "word-S07.W01.png"
+        },
+        {
+          "id": "S07.W02",
+          "text": "אחד",
+          "box": [
+            992,
+            651,
+            1092,
+            725
+          ],
+          "status": "readable",
+          "file": "word-S07.W02.png"
+        }
+      ],
+      "location": "Genesis 1:5",
+      "strength": "Strong within this passage",
+      "note": "The two-word phrase fits the end of the first-day account.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:5.12",
+          "end": "1:5.13",
+          "reference_tokens": [
+            "יום",
+            "אחד"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.25,
+          "start": "1:9.8",
+          "end": "1:9.9",
+          "reference_tokens": [
+            "מקום",
+            "אחד"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.4,
+          "start": "1:5.4",
+          "end": "1:5.5",
+          "reference_tokens": [
+            "יום",
+            "ולחשך"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5,
+          "start": "1:8.9",
+          "end": "1:8.10",
+          "reference_tokens": [
+            "יום",
+            "שני"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6667,
+          "start": "1:3.3",
+          "end": "1:3.4",
+          "reference_tokens": [
+            "יהי",
+            "אור"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "tokens": [
+        {
+          "id": "S08.W01",
+          "text": "ויאמר",
+          "box": [
+            1032,
+            715,
+            1190,
+            782
+          ],
+          "status": "readable",
+          "file": "word-S08.W01.png"
+        },
+        {
+          "id": "S08.W02",
+          "text": "אלהים",
+          "box": [
+            868,
+            688,
+            1032,
+            782
+          ],
+          "status": "readable",
+          "file": "word-S08.W02.png"
+        },
+        {
+          "id": "S08.W03",
+          "text": "יהי",
+          "box": [
+            781,
+            704,
+            874,
+            778
+          ],
+          "status": "readable",
+          "file": "word-S08.W03.png"
+        },
+        {
+          "id": "S08.W04",
+          "text": "רקיע",
+          "box": [
+            652,
+            690,
+            781,
+            781
+          ],
+          "status": "readable",
+          "file": "word-S08.W04.png"
+        },
+        {
+          "id": "S08.W05",
+          "text": "בתוך",
+          "box": [
+            520,
+            688,
+            653,
+            783
+          ],
+          "status": "readable",
+          "file": "word-S08.W05.png"
+        },
+        {
+          "id": "S08.W06",
+          "text": "המים",
+          "box": [
+            352,
+            696,
+            514,
+            789
+          ],
+          "status": "readable",
+          "file": "word-S08.W06.png"
+        },
+        {
+          "id": "S08.W07",
+          "text": "ויהי",
+          "box": [
+            235,
+            716,
+            353,
+            784
+          ],
+          "status": "readable",
+          "file": "word-S08.W07.png"
+        },
+        {
+          "id": "S08.W08",
+          "text": "מב[…]",
+          "box": [
+            163,
+            726,
+            235,
+            792
+          ],
+          "status": "partial",
+          "file": "word-S08.W08.png"
+        }
+      ],
+      "location": "Genesis 1:6",
+      "strength": "Strong phrase alignment",
+      "note": "The long surviving sequence fixes the location without completing מב[…].",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0187,
+          "start": "1:6.1",
+          "end": "1:6.8",
+          "reference_tokens": [
+            "ויאמר",
+            "אלהים",
+            "יהי",
+            "רקיע",
+            "בתוך",
+            "המים",
+            "ויהי",
+            "מבדיל"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5437,
+          "start": "1:9.1",
+          "end": "1:9.8",
+          "reference_tokens": [
+            "ויאמר",
+            "אלהים",
+            "יקוו",
+            "המים",
+            "מתחת",
+            "השמים",
+            "אל",
+            "מקום"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5625,
+          "start": "1:3.1",
+          "end": "1:4.2",
+          "reference_tokens": [
+            "ויאמר",
+            "אלהים",
+            "יהי",
+            "אור",
+            "ויהי",
+            "אור",
+            "וירא",
+            "אלהים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6417,
+          "start": "1:10.1",
+          "end": "1:10.8",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "ליבשה",
+            "ארץ",
+            "ולמקוה",
+            "המים",
+            "קרא",
+            "ימים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6438,
+          "start": "1:8.1",
+          "end": "1:8.8",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "לרקיע",
+            "שמים",
+            "ויהי",
+            "ערב",
+            "ויהי",
+            "בקר"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "tokens": [
+        {
+          "id": "S09.W01",
+          "text": "אלהים",
+          "box": [
+            1014,
+            774,
+            1187,
+            865
+          ],
+          "status": "readable",
+          "file": "word-S09.W01.png"
+        },
+        {
+          "id": "S09.W02",
+          "text": "את",
+          "box": [
+            940,
+            794,
+            1015,
+            859
+          ],
+          "status": "readable",
+          "file": "word-S09.W02.png"
+        },
+        {
+          "id": "S09.W03",
+          "text": "הרקיע",
+          "box": [
+            785,
+            786,
+            940,
+            861
+          ],
+          "status": "readable",
+          "file": "word-S09.W03.png"
+        },
+        {
+          "id": "S09.W04",
+          "text": "ויבדל",
+          "box": [
+            635,
+            751,
+            783,
+            860
+          ],
+          "status": "readable",
+          "file": "word-S09.W04.png"
+        },
+        {
+          "id": "S09.W05",
+          "text": "בין",
+          "box": [
+            553,
+            774,
+            635,
+            853
+          ],
+          "status": "readable",
+          "file": "word-S09.W05.png"
+        },
+        {
+          "id": "S09.W06",
+          "text": "המים",
+          "box": [
+            409,
+            771,
+            553,
+            859
+          ],
+          "status": "readable",
+          "file": "word-S09.W06.png"
+        },
+        {
+          "id": "S09.W07",
+          "text": "אשר",
+          "box": [
+            281,
+            789,
+            409,
+            860
+          ],
+          "status": "readable",
+          "file": "word-S09.W07.png"
+        },
+        {
+          "id": "S09.W08",
+          "text": "מת[…]",
+          "box": [
+            163,
+            794,
+            281,
+            862
+          ],
+          "status": "partial",
+          "file": "word-S09.W08.png"
+        }
+      ],
+      "location": "Genesis 1:7",
+      "strength": "Strong phrase alignment",
+      "note": "The eight visible or partial tokens align with the middle of this verse.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0187,
+          "start": "1:7.2",
+          "end": "1:7.9",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "הרקיע",
+            "ויבדל",
+            "בין",
+            "המים",
+            "אשר",
+            "מתחת"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5479,
+          "start": "1:7.7",
+          "end": "1:7.14",
+          "reference_tokens": [
+            "המים",
+            "אשר",
+            "מתחת",
+            "לרקיע",
+            "ובין",
+            "המים",
+            "אשר",
+            "מעל"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.65,
+          "start": "1:1.3",
+          "end": "1:2.3",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "השמים",
+            "ואת",
+            "הארץ",
+            "והארץ",
+            "היתה",
+            "תהו"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.675,
+          "start": "1:4.2",
+          "end": "1:4.9",
+          "reference_tokens": [
+            "אלהים",
+            "את",
+            "האור",
+            "כי",
+            "טוב",
+            "ויבדל",
+            "אלהים",
+            "בין"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.7063,
+          "start": "1:6.5",
+          "end": "1:7.1",
+          "reference_tokens": [
+            "בתוך",
+            "המים",
+            "ויהי",
+            "מבדיל",
+            "בין",
+            "מים",
+            "למים",
+            "ויעש"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "tokens": [
+        {
+          "id": "S10.W01",
+          "text": "מעל",
+          "box": [
+            1061,
+            840,
+            1181,
+            936
+          ],
+          "status": "readable",
+          "file": "word-S10.W01.png"
+        },
+        {
+          "id": "S10.W02",
+          "text": "לרקיע",
+          "box": [
+            917,
+            843,
+            1063,
+            938
+          ],
+          "status": "readable",
+          "file": "word-S10.W02.png"
+        },
+        {
+          "id": "S10.W03",
+          "text": "ויהי",
+          "box": [
+            797,
+            855,
+            917,
+            930
+          ],
+          "status": "readable",
+          "file": "word-S10.W03.png"
+        },
+        {
+          "id": "S10.W04",
+          "text": "כן",
+          "box": [
+            740,
+            852,
+            797,
+            938
+          ],
+          "status": "readable",
+          "file": "word-S10.W04.png"
+        },
+        {
+          "id": "S10.W05",
+          "text": "ויקרא",
+          "box": [
+            567,
+            849,
+            740,
+            938
+          ],
+          "status": "readable",
+          "file": "word-S10.W05.png"
+        },
+        {
+          "id": "S10.W06",
+          "text": "אלהים",
+          "box": [
+            385,
+            833,
+            566,
+            943
+          ],
+          "status": "readable",
+          "file": "word-S10.W06.png"
+        },
+        {
+          "id": "S10.W07",
+          "text": "לרקיע",
+          "box": [
+            211,
+            833,
+            382,
+            943
+          ],
+          "status": "readable",
+          "file": "word-S10.W07.png"
+        }
+      ],
+      "location": "Genesis 1:7-8",
+      "strength": "Strong phrase alignment",
+      "note": "One physical row crosses the modern verse division: מעל לרקיע ויהי כן | ויקרא אלהים לרקיע.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:7.14",
+          "end": "1:8.3",
+          "reference_tokens": [
+            "מעל",
+            "לרקיע",
+            "ויהי",
+            "כן",
+            "ויקרא",
+            "אלהים",
+            "לרקיע"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.4,
+          "start": "1:9.10",
+          "end": "1:10.3",
+          "reference_tokens": [
+            "ותראה",
+            "היבשה",
+            "ויהי",
+            "כן",
+            "ויקרא",
+            "אלהים",
+            "ליבשה"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6,
+          "start": "1:3.3",
+          "end": "1:4.3",
+          "reference_tokens": [
+            "יהי",
+            "אור",
+            "ויהי",
+            "אור",
+            "וירא",
+            "אלהים",
+            "את"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6143,
+          "start": "1:7.9",
+          "end": "1:7.15",
+          "reference_tokens": [
+            "מתחת",
+            "לרקיע",
+            "ובין",
+            "המים",
+            "אשר",
+            "מעל",
+            "לרקיע"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.65,
+          "start": "1:4.9",
+          "end": "1:5.3",
+          "reference_tokens": [
+            "בין",
+            "האור",
+            "ובין",
+            "החשך",
+            "ויקרא",
+            "אלהים",
+            "לאור"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "tokens": [
+        {
+          "id": "S11.W01",
+          "text": "יום",
+          "box": [
+            1036,
+            946,
+            1157,
+            1025
+          ],
+          "status": "readable",
+          "file": "word-S11.W01.png"
+        },
+        {
+          "id": "S11.W02",
+          "text": "שני",
+          "box": [
+            947,
+            933,
+            1037,
+            1015
+          ],
+          "status": "readable",
+          "file": "word-S11.W02.png"
+        }
+      ],
+      "location": "Genesis 1:8",
+      "strength": "Strong within this passage",
+      "note": "The two-word phrase fits the end of the second-day account.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:8.9",
+          "end": "1:8.10",
+          "reference_tokens": [
+            "יום",
+            "שני"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5,
+          "start": "1:5.4",
+          "end": "1:5.5",
+          "reference_tokens": [
+            "יום",
+            "ולחשך"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5,
+          "start": "1:5.12",
+          "end": "1:5.13",
+          "reference_tokens": [
+            "יום",
+            "אחד"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.625,
+          "start": "1:9.3",
+          "end": "1:9.4",
+          "reference_tokens": [
+            "יקוו",
+            "המים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6667,
+          "start": "1:2.6",
+          "end": "1:2.7",
+          "reference_tokens": [
+            "על",
+            "פני"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "tokens": [
+        {
+          "id": "S12.W01",
+          "text": "וי◊[…]",
+          "box": [
+            1043,
+            1021,
+            1160,
+            1098
+          ],
+          "status": "partial",
+          "file": "word-S12.W01.png"
+        },
+        {
+          "id": "S12.W02",
+          "text": "אלהים",
+          "box": [
+            846,
+            986,
+            1038,
+            1106
+          ],
+          "status": "readable",
+          "file": "word-S12.W02.png"
+        },
+        {
+          "id": "S12.W03",
+          "text": "יקוו",
+          "box": [
+            709,
+            1007,
+            846,
+            1100
+          ],
+          "status": "readable",
+          "file": "word-S12.W03.png"
+        },
+        {
+          "id": "S12.W04",
+          "text": "המים",
+          "box": [
+            552,
+            1014,
+            709,
+            1107
+          ],
+          "status": "readable",
+          "file": "word-S12.W04.png"
+        },
+        {
+          "id": "S12.W05",
+          "text": "מתחת",
+          "box": [
+            399,
+            1019,
+            552,
+            1109
+          ],
+          "status": "readable",
+          "file": "word-S12.W05.png"
+        },
+        {
+          "id": "S12.W06",
+          "text": "לשמים",
+          "box": [
+            200,
+            989,
+            401,
+            1111
+          ],
+          "status": "readable",
+          "file": "word-S12.W06.png"
+        }
+      ],
+      "location": "Genesis 1:9",
+      "strength": "Strong phrase alignment; spelling difference",
+      "note": "The image reading לשמים differs from reference השמים. The location is supported by the surrounding words.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0583,
+          "start": "1:9.1",
+          "end": "1:9.6",
+          "reference_tokens": [
+            "ויאמר",
+            "אלהים",
+            "יקוו",
+            "המים",
+            "מתחת",
+            "השמים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.4667,
+          "start": "1:6.1",
+          "end": "1:6.6",
+          "reference_tokens": [
+            "ויאמר",
+            "אלהים",
+            "יהי",
+            "רקיע",
+            "בתוך",
+            "המים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5306,
+          "start": "1:10.1",
+          "end": "1:10.6",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "ליבשה",
+            "ארץ",
+            "ולמקוה",
+            "המים"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.5333,
+          "start": "1:8.1",
+          "end": "1:8.6",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "לרקיע",
+            "שמים",
+            "ויהי",
+            "ערב"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.575,
+          "start": "1:5.1",
+          "end": "1:5.6",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "לאור",
+            "יום",
+            "ולחשך",
+            "קרא"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "tokens": [
+        {
+          "id": "S13.W01",
+          "text": "ויקרא",
+          "box": [
+            569,
+            1063,
+            744,
+            1159
+          ],
+          "status": "readable",
+          "file": "word-S13.W01.png"
+        },
+        {
+          "id": "S13.W02",
+          "text": "אלהים",
+          "box": [
+            398,
+            1067,
+            572,
+            1171
+          ],
+          "status": "readable",
+          "file": "word-S13.W02.png"
+        },
+        {
+          "id": "S13.W03",
+          "text": "ליבשה",
+          "box": [
+            201,
+            1077,
+            398,
+            1177
+          ],
+          "status": "readable",
+          "file": "word-S13.W03.png"
+        }
+      ],
+      "location": "Genesis 1:10",
+      "strength": "Strong phrase alignment",
+      "note": "The three-word phrase identifies the naming of the dry land.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:10.1",
+          "end": "1:10.3",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "ליבשה"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.2667,
+          "start": "1:5.1",
+          "end": "1:5.3",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "לאור"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.2667,
+          "start": "1:8.1",
+          "end": "1:8.3",
+          "reference_tokens": [
+            "ויקרא",
+            "אלהים",
+            "לרקיע"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.3333,
+          "start": "1:10.9",
+          "end": "1:10.11",
+          "reference_tokens": [
+            "וירא",
+            "אלהים",
+            "כי"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.4,
+          "start": "1:4.1",
+          "end": "1:4.3",
+          "reference_tokens": [
+            "וירא",
+            "אלהים",
+            "את"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S14",
+      "tokens": [
+        {
+          "id": "S14.W01",
+          "text": "כי",
+          "box": [
+            652,
+            1169,
+            709,
+            1233
+          ],
+          "status": "readable",
+          "file": "word-S14.W01.png"
+        },
+        {
+          "id": "S14.W02",
+          "text": "טוב",
+          "box": [
+            550,
+            1169,
+            654,
+            1236
+          ],
+          "status": "readable",
+          "file": "word-S14.W02.png"
+        }
+      ],
+      "location": "Genesis 1:10?",
+      "strength": "Context-dependent",
+      "note": "כי טוב occurs in both 1:4 and 1:10 within the selected range. Its position after S13 favors 1:10.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:4.5",
+          "end": "1:4.6",
+          "reference_tokens": [
+            "כי",
+            "טוב"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.0,
+          "start": "1:10.11",
+          "end": "1:10.12",
+          "reference_tokens": [
+            "כי",
+            "טוב"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.6667,
+          "start": "1:3.3",
+          "end": "1:3.4",
+          "reference_tokens": [
+            "יהי",
+            "אור"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.7083,
+          "start": "1:2.7",
+          "end": "1:2.8",
+          "reference_tokens": [
+            "פני",
+            "תהום"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.7083,
+          "start": "1:3.5",
+          "end": "1:3.6",
+          "reference_tokens": [
+            "ויהי",
+            "אור"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S15",
+      "tokens": [
+        {
+          "id": "S15.W01",
+          "text": "ויא̣◊",
+          "box": [
+            245,
+            1162,
+            365,
+            1248
+          ],
+          "status": "partial",
+          "file": "word-S15.W01.png"
+        }
+      ],
+      "location": "Genesis 1:11?",
+      "strength": "Weak, sequence-dependent",
+      "note": "If ויא̣◊ begins ויאמר and follows the end of 1:10, it could begin 1:11. The short trace cannot identify a verse independently.",
+      "candidates": [
+        {
+          "mean_edit_cost": 0.15,
+          "start": "1:3.1",
+          "end": "1:3.1",
+          "reference_tokens": [
+            "ויאמר"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.15,
+          "start": "1:6.1",
+          "end": "1:6.1",
+          "reference_tokens": [
+            "ויאמר"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.15,
+          "start": "1:9.1",
+          "end": "1:9.1",
+          "reference_tokens": [
+            "ויאמר"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.15,
+          "start": "1:11.1",
+          "end": "1:11.1",
+          "reference_tokens": [
+            "ויאמר"
+          ]
+        },
+        {
+          "mean_edit_cost": 0.7,
+          "start": "1:4.1",
+          "end": "1:4.1",
+          "reference_tokens": [
+            "וירא"
+          ]
+        }
+      ]
+    }
+  ],
+  "segmentation_method": "Manual orthographic word windows in right-to-left order. These are approximate inspection boxes, not automatic word recognition or exact stroke contours. Adjacent marks can enter a window.",
+  "alignment_method": "All equal-token-length contiguous windows within Genesis 1:1-11, ranked by average normalized character edit cost. No insertions/deletions of whole tokens are modelled. Partial/uncertain tokens receive penalties. Costs are NOT probabilities. Short recurring phrases require sequence and physical context.",
+  "spacing": {
+    "band": [
+      390,
+      545,
+      602,
+      592
+    ],
+    "occupancy_rule": "Original grayscale < threshold; low ink means fewer than 3 such pixels in a column; report runs at least 3 columns wide.",
+    "settings": [
+      {
+        "threshold": 65,
+        "profile": [
+          4,
+          5,
+          9,
+          8,
+          9,
+          12,
+          15,
+          16,
+          16,
+          16,
+          18,
+          19,
+          18,
+          19,
+          20,
+          16,
+          11,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          7,
+          8,
+          8,
+          7,
+          8,
+          8,
+          8,
+          7,
+          7,
+          7,
+          8,
+          7,
+          8,
+          8,
+          8,
+          12,
+          17,
+          29,
+          39,
+          46,
+          35,
+          27,
+          20,
+          17,
+          16,
+          14,
+          12,
+          12,
+          12,
+          12,
+          13,
+          14,
+          15,
+          18,
+          17,
+          19,
+          22,
+          27,
+          28,
+          30,
+          24,
+          20,
+          15,
+          12,
+          9,
+          6,
+          4,
+          15,
+          22,
+          26,
+          27,
+          25,
+          21,
+          18,
+          12,
+          10,
+          9,
+          9,
+          9,
+          12,
+          12,
+          12,
+          12,
+          15,
+          21,
+          29,
+          27,
+          25,
+          22,
+          17,
+          13,
+          8,
+          0,
+          0,
+          0,
+          2,
+          8,
+          11,
+          13,
+          14,
+          15,
+          16,
+          16,
+          16,
+          14,
+          12,
+          9,
+          11,
+          18,
+          22,
+          26,
+          23,
+          18,
+          12,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          6,
+          8,
+          10,
+          15,
+          16,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
+          19,
+          19,
+          18,
+          19,
+          16,
+          9,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          12,
+          14,
+          15,
+          16,
+          16,
+          16,
+          15,
+          15,
+          13,
+          12,
+          11,
+          11,
+          10,
+          10,
+          11,
+          10,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11
+        ],
+        "low_ink_runs": [
+          {
+            "x0": 407,
+            "x1": 430,
+            "width": 23
+          },
+          {
+            "x0": 502,
+            "x1": 506,
+            "width": 4
+          },
+          {
+            "x0": 524,
+            "x1": 530,
+            "width": 6
+          },
+          {
+            "x0": 548,
+            "x1": 580,
+            "width": 32
+          }
+        ]
+      },
+      {
+        "threshold": 85,
+        "profile": [
+          6,
+          10,
+          10,
+          10,
+          12,
+          15,
+          16,
+          17,
+          17,
+          19,
+          21,
+          24,
+          24,
+          24,
+          24,
+          24,
+          20,
+          9,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          6,
+          9,
+          11,
+          13,
+          14,
+          17,
+          19,
+          19,
+          19,
+          14,
+          10,
+          9,
+          9,
+          9,
+          9,
+          12,
+          15,
+          24,
+          37,
+          46,
+          47,
+          46,
+          36,
+          24,
+          20,
+          18,
+          15,
+          14,
+          14,
+          16,
+          16,
+          16,
+          17,
+          19,
+          19,
+          20,
+          24,
+          27,
+          30,
+          32,
+          32,
+          30,
+          24,
+          18,
+          15,
+          12,
+          10,
+          13,
+          22,
+          25,
+          29,
+          28,
+          27,
+          23,
+          21,
+          16,
+          13,
+          12,
+          12,
+          14,
+          14,
+          15,
+          16,
+          18,
+          20,
+          28,
+          31,
+          29,
+          27,
+          24,
+          23,
+          16,
+          13,
+          0,
+          0,
+          0,
+          4,
+          10,
+          13,
+          14,
+          15,
+          16,
+          16,
+          17,
+          18,
+          16,
+          15,
+          17,
+          19,
+          24,
+          29,
+          29,
+          27,
+          22,
+          17,
+          6,
+          0,
+          0,
+          0,
+          0,
+          2,
+          5,
+          7,
+          10,
+          14,
+          15,
+          16,
+          17,
+          17,
+          18,
+          18,
+          18,
+          18,
+          23,
+          24,
+          26,
+          23,
+          22,
+          17,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          7,
+          14,
+          16,
+          18,
+          19,
+          19,
+          18,
+          17,
+          15,
+          14,
+          13,
+          12,
+          11,
+          11,
+          11,
+          11,
+          12,
+          12,
+          12,
+          13,
+          13,
+          13,
+          13
+        ],
+        "low_ink_runs": [
+          {
+            "x0": 408,
+            "x1": 429,
+            "width": 21
+          },
+          {
+            "x0": 502,
+            "x1": 505,
+            "width": 3
+          },
+          {
+            "x0": 525,
+            "x1": 530,
+            "width": 5
+          },
+          {
+            "x0": 548,
+            "x1": 579,
+            "width": 31
+          }
+        ]
+      },
+      {
+        "threshold": 105,
+        "profile": [
+          7,
+          10,
+          11,
+          12,
+          14,
+          16,
+          18,
+          18,
+          19,
+          20,
+          25,
+          27,
+          25,
+          26,
+          25,
+          24,
+          23,
+          20,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          6,
+          10,
+          14,
+          15,
+          17,
+          18,
+          20,
+          21,
+          21,
+          21,
+          19,
+          10,
+          10,
+          10,
+          10,
+          11,
+          14,
+          19,
+          35,
+          45,
+          47,
+          47,
+          47,
+          46,
+          28,
+          23,
+          19,
+          18,
+          17,
+          16,
+          18,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          28,
+          32,
+          33,
+          36,
+          33,
+          31,
+          25,
+          23,
+          17,
+          13,
+          11,
+          23,
+          25,
+          30,
+          31,
+          30,
+          28,
+          26,
+          22,
+          18,
+          14,
+          13,
+          15,
+          15,
+          16,
+          17,
+          19,
+          22,
+          25,
+          32,
+          32,
+          31,
+          29,
+          26,
+          23,
+          18,
+          15,
+          9,
+          0,
+          3,
+          6,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          19,
+          19,
+          19,
+          23,
+          30,
+          31,
+          31,
+          30,
+          24,
+          21,
+          12,
+          0,
+          0,
+          0,
+          0,
+          3,
+          6,
+          9,
+          13,
+          16,
+          17,
+          18,
+          18,
+          19,
+          19,
+          19,
+          19,
+          22,
+          24,
+          25,
+          27,
+          25,
+          23,
+          20,
+          6,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          10,
+          16,
+          17,
+          19,
+          20,
+          20,
+          20,
+          18,
+          17,
+          15,
+          14,
+          13,
+          13,
+          12,
+          12,
+          12,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          14
+        ],
+        "low_ink_runs": [
+          {
+            "x0": 408,
+            "x1": 428,
+            "width": 20
+          },
+          {
+            "x0": 525,
+            "x1": 529,
+            "width": 4
+          },
+          {
+            "x0": 549,
+            "x1": 579,
+            "width": 30
+          }
+        ]
+      }
+    ],
+    "conclusion": "The day group has 20-23 low-ink columns to its left and 30-32 to its right in this band. Interior low-ink runs are only 3-6 columns. This supports treating יומם as one graphic word; it does not by itself identify its letters. No internal vertical gap separates the two mem-shaped structures."
+  },
+  "morphology": [
+    {
+      "graphic": "ורוח",
+      "parts": "ו + רוח",
+      "note": "Prefixed conjunction; one graphic word."
+    },
+    {
+      "graphic": "לאור",
+      "parts": "ל + אור",
+      "note": "Prefixed lamed; one graphic word."
+    },
+    {
+      "graphic": "ולחשך",
+      "parts": "ו + ל + חשך",
+      "note": "Two prefixes; still one graphic word."
+    },
+    {
+      "graphic": "לשמים",
+      "parts": "ל + שמים",
+      "note": "The prefix is part of the visible word, not a separately spaced token."
+    }
+  ],
+  "limits": [
+    "Verse numbering is modern reference metadata, not visible on this fragment.",
+    "Genesis 1:3 is not securely represented among the surviving groups; this does not show that a scribe omitted it.",
+    "The alignment does not establish original column width, missing word counts, the fit of restored text in tears, or physical joins.",
+    "Apparent differences from the reference text remain provisional image readings, not established manuscript variants.",
+    "The quoted text identifies the passage; it does not identify or authenticate the manuscript."
+  ]
+}

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Explore a Hebrew manuscript fragment through registered image crops, word segmentation, and a cited textual-location analysis.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<title>Hebrew fragment: transcription, translation, and evidence</title>
+<link rel="stylesheet" href="assets/vendor/daisyui.css">
+<link rel="stylesheet" href="assets/vendor/themes.css">
+
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body><noscript><p class="notice">Enable JavaScript to use the interactive viewer. The <a href="evidence/transcription.txt">transcription</a> and <a href="evidence/analysis-report.md">written analysis</a> are also available as downloads.</p></noscript><main>
+<section class="article-opening" aria-labelledby="article-title">
+<header class="article-masthead">
+<p class="eyebrow">A Hebrew fragment / text and evidence</p>
+<h1 id="article-title">Read the fragment. <em>Follow the reasoning.</em></h1>
+<p class="article-deck">The surviving phrases follow Genesis 1. Explore what the image preserves,<br class="desktop-break"> what context suggests, and what a reference text supplies.</p>
+</header>
+<figure class="article-figure"><img src="evidence/source.png" alt="The supplied Hebrew manuscript fragment" width="1518" height="1306"><figcaption>The supplied image · <a href="#evidence">Inspect the writing</a><span>No reverse image search · Readings remain provisional</span></figcaption></figure>
+<div class="article-footer">
+<nav class="article-contents" aria-labelledby="contents-title"><h2 id="contents-title">Contents</h2><div class="article-chapters"><a href="#reading-modes"><span>01</span> Read the text</a><a href="#evidence"><span>02</span> Inspect the image</a><a href="#reasoning"><span>03</span> Review the method</a></div></nav>
+<section class="article-guide" aria-labelledby="guide-title"><h2 id="guide-title">How to use this page</h2><p>Start with the strict text, or select a contextual reading or fuller reconstruction. Read Hebrew alongside English. Open <b>Reading notes</b> for the reasoning, then <b>Inspect the image</b> to check a crop and return to your place.</p></section>
+</div>
+</section>
+
+<section id="reading-modes" aria-labelledby="modes-title">
+<header class="reading-chapter-heading"><p class="eyebrow">01</p><h2 id="modes-title">Read the text</h2><p class="section-introduction">Explore each tab below to compare the transcription and translation, from surviving text to contextual readings and fuller reconstruction. Each tab makes its method and added assumptions explicit.</p></header>
+<div id="edition-modes" class="reading-tabs" role="tablist" aria-label="Transcription and translation version"></div>
+<div class="panel edition-panel">
+<div id="reading-panel" role="tabpanel" tabindex="0">
+<div class="mode-explanation" aria-live="polite"><h3 id="edition-title"></h3><p id="edition-description"></p></div>
+<div class="provenance-legend small" id="provenance-legend">
+<span><b class="key-observed">Image-based</b> surviving wording</span>
+<span><b class="key-inferred">Inferred</b> completed or tentatively identified words</span>
+<span><b class="key-supplied">[Reference supplied]</b> wording supplied from Genesis</span>
+</div>
+<p class="small muted" id="phrase-instructions">These marks describe the Hebrew evidence. English grammar and word meanings still require interpretation.</p>
+<p class="opening-note"><strong>Why the opening has a gap:</strong> “In the beginning” is not securely preserved here. It appears only in the reference-led reconstruction. “Created” is a provisional reading of a detached group.</p>
+<div class="edition-column-labels" aria-hidden="true"><span>Hebrew reading</span><span>English translation</span></div>
+<div id="edition-content"></div>
+<p class="notice small">Possible continuation: <span lang="he" dir="rtl">ויא̣◊</span> (S15) may begin <span lang="he" dir="rtl">ויאמר</span>, “And [God] said,” at Genesis 1:11. This remains a contextual conjecture. The remaining letters and the following divine name are not claimed as visible, and this completion is excluded from the reconstructed passage.</p>
+<p class="small"><a href="evidence/reading-modes.txt">Download all paired readings and phrase-by-phrase evidence</a> · <a href="evidence/interpretation.json">Structured interpretation data</a></p>
+</div>
+</div>
+</section>
+
+<section class="chapter-section" id="evidence" aria-labelledby="evidence-title">
+<header class="reading-chapter-heading"><p class="eyebrow">02</p><h2 id="evidence-title">Inspect the image</h2><p class="section-introduction">Explore each tab below to compare disputed readings, magnify the source image, examine word boundaries, and check passage locations. Use the controls within each tab to follow the evidence.</p></header>
+<div id="evidence-tabs" class="reading-tabs section-tabs" role="tablist" aria-label="Image inspection tools"></div>
+<section class="panel" id="case-panel" aria-labelledby="case-title">
+<div class="mode-explanation"><h3>Disputed readings</h3><p>Choose one of the four disputed readings below to see its explanation and comparison letters. Open a comparison crop in the Pixel inspection tab for a magnified view. The labels distinguish strengthened readings from those that remain provisional or partial.</p></div>
+<nav class="cases" id="cases" aria-label="Disputed readings"></nav>
+<div class="status-line"><span class="badge badge-outline" id="case-status"></span><span class="small muted" id="case-id"></span></div>
+<h2 id="case-title" style="margin-top:14px"></h2><div class="reading-large" id="case-reading" lang="he"></div>
+<div class="grid2"><div><h3>Visible structure</h3><p id="observation"></p></div><div><h3>Comparison and conclusion</h3><p id="comparison"></p><p id="conclusion"></p></div></div>
+<p class="small muted" id="previous"></p>
+<h3>Compare the same hand</h3><div class="refs" id="refs"></div>
+</section>
+<section class="panel" id="inspection" aria-labelledby="inspection-title">
+<div class="mode-explanation"><div class="inspection-heading"><h3 id="inspection-title">Pixel inspection</h3><a id="return-to-reading" href="#reading-modes">Back to the reading ↑</a></div><p>The left view always shows unchanged source pixels. Change the right view, enlarge both, or open a reference crop. Large views can be panned inside their frames. Pointer coordinates refer to the original screenshot.</p></div>
+<div class="controls">
+<label>Region<select class="select select-bordered" id="region" autocomplete="off"></select></label>
+<label>Inspection view<select class="select select-bordered" id="mode"></select></label>
+<label>Magnification <span id="zoom-label">4×</span><input class="range range-sm" id="zoom" type="range" min="1" max="8" step="1" value="4"></label>
+<button class="btn btn-sm" id="fit">Fit frames</button>
+</div>
+<p class="small muted" id="coordinates"></p>
+<div class="grid2">
+<div><div class="image-title"><strong>Source pixels</strong><span class="mono" id="pointer">Move over a crop for coordinates</span></div><div class="image-box" id="source-box"><img id="original" alt="Unchanged crop from the source screenshot"></div></div>
+<div><div class="image-title"><strong id="mode-title">Contrast</strong><button class="btn btn-xs" id="blink" aria-pressed="false">Show original here</button></div><div class="image-box" id="derived-box"><img id="derived" alt="Processed inspection view of the selected crop"></div></div>
+</div>
+<p id="processing-note" class="small muted" style="margin-top:12px"></p>
+<div class="notice small">Filters can amplify cracks, join separate strokes, erase faint ink, or create ringing. A detail seen only in a processed view is not accepted as a recovered letter.</div>
+<details><summary>Locate this region in the source image</summary><div class="map-wrap"><canvas id="map" width="1518" height="1306" class="full-image" aria-label="Source image with selected region outlined"></canvas></div></details>
+</section>
+<section class="panel" id="word-analysis" aria-labelledby="words-title">
+<div class="mode-explanation"><h3 id="words-title">Word boundaries</h3>
+<p>64 manually annotated word or partial-word windows cover the 15 physical groups. Select a group, then click a word window or its Hebrew button to inspect it. Numbering follows reading order from right to left.</p></div>
+<p class="small muted">These are approximate inspection boxes, not exact stroke contours or automatic OCR. Missing stretches are not assigned word counts. Prefixes such as ו and ל stay attached to their graphic words.</p>
+<div class="controls"><label>Physical group<select id="word-group" class="select select-bordered"></select></label><label style="display:flex;align-items:center;flex:none"><input id="word-overlay" type="checkbox" checked class="checkbox checkbox-sm"> Show word windows</label></div>
+<div class="word-row-wrap"><canvas id="word-row" class="full-image" aria-label="Selected physical group with clickable word windows"></canvas></div>
+<div id="word-buttons" class="word-buttons" dir="rtl" aria-label="Words in right-to-left order"></div>
+<div class="grid2 word-detail"><div><img id="word-crop" class="word-crop" alt="Unchanged source pixels of the selected word"></div><div><p class="eyebrow" id="word-id"></p><div class="reading-large" lang="he" id="word-reading"></div><p id="word-state" class="small"></p><p id="word-coordinates" class="mono"></p><p id="word-context" class="small muted"></p></div></div>
+<details><summary>Graphic words and grammatical prefixes</summary><p class="small muted">The plus signs below describe grammatical components. They do not claim that spaces separate those components in the image.</p><div class="table-wrap"><table><thead><tr><th>Graphic word</th><th>Components</th><th>Segmentation note</th></tr></thead><tbody id="morphology"></tbody></table></div></details>
+<details><summary>Measured spacing around יומם</summary>
+<p class="small" style="margin-top:12px">Across three thresholds, the low-ink runs outside the group are 20–23 pixels on the left and 30–32 on the right. The interior runs are only 3–6 pixels. This supports one graphic word, while the two mem-shaped structures have no separating vertical gap. Spacing alone does not identify the letters.</p>
+<div class="controls"><label>Grayscale threshold<select id="spacing-threshold" class="select select-bordered"><option value="0">65</option><option value="1" selected>85</option><option value="2">105</option></select></label></div>
+<canvas id="spacing-plot" width="1060" height="400" class="full-image" aria-label="Original word context and measured column ink profile"></canvas>
+<p class="small muted" id="spacing-runs"></p><p class="small muted">The measured source band is x=390–601, y=545–591. A low-ink column has fewer than three grayscale pixels below the chosen threshold. This is a local measurement, not a universal word-boundary rule.</p>
+</details>
+</section>
+<section class="panel" id="text-location" aria-labelledby="location-title">
+<div class="mode-explanation"><h3 id="location-title">Passage locations</h3>
+<p>The surviving phrases align with Genesis 1:1–10. The final partial word could begin 1:11, but cannot locate itself independently. The modern verse numbers below describe the reference passage; they are not markings visible on the fragment.</p></div>
+<p class="small">Reference: <a href="https://mechon-mamre.org/p/pt/pt0101.htm" target="_blank" rel="noreferrer">Mechon Mamre, Hebrew text of Genesis 1</a>, opened directly for this added layer. Pointing and punctuation are removed for comparison. No image search or manuscript-identification search was performed.</p>
+<div class="notice small">A reference match locates a phrase. It does not restore a missing stroke. The earlier image readings remain visible alongside apparent differences from the reference.</div>
+<div class="table-wrap" style="margin-top:16px"><table><thead><tr><th>Physical group</th><th>Passage</th><th>Basis and uncertainty</th></tr></thead><tbody id="locations"></tbody></table></div>
+<div class="grid2" style="margin-top:24px"><div><h3>Apparent spelling differences</h3><div class="table-wrap"><table><thead><tr><th>Image reading</th><th>Reference</th><th>Location</th></tr></thead><tbody><tr><td lang="he" dir="rtl">יומם</td><td lang="he" dir="rtl">יום</td><td>1:5</td></tr><tr><td lang="he" dir="rtl">לשמים</td><td lang="he" dir="rtl">השמים</td><td>1:9</td></tr></tbody></table></div><p class="small muted">These are provisional differences between this image reading and the reference, not established manuscript variants.</p></div><div><h3>Physical position versus text order</h3><p class="small">The textual sequence suggests S02 before S01 and S06 before S05. Those associations help formulate a layout hypothesis; they do not prove physical joins. S10 spans the modern division between 1:7 and 1:8.</p><p class="small">Genesis 1:3 has no secure surviving group in this transcription. Its absence here does not demonstrate an omission by the scribe. Original column width and the amount of missing text remain unestablished.</p></div></div>
+<details><summary>Alignment method and alternative matches</summary><p class="small" id="alignment-method"></p><p class="small muted">The software tests only Genesis 1:1–11, not the whole Bible. It compares contiguous windows with the same number of tokens, so an incorrect word split can distort the result. Cost is an edit-distance ranking, not a probability. Repeated short phrases need context.</p><div id="alignment-details"></div></details>
+<details><summary>Reference text used, with vowels and punctuation removed</summary><div id="reference-verses"></div></details>
+<p class="small" style="margin-top:16px"><a href="evidence/word-location-analysis.json">Download word coordinates, spacing profiles, reference text, and alignment candidates</a></p>
+</section>
+
+</section>
+<section class="chapter-section" id="reasoning" aria-labelledby="reasoning-title">
+<header class="reading-chapter-heading"><p class="eyebrow">03</p><h2 id="reasoning-title">Review the method</h2><p class="section-introduction">Explore each tab below to follow how the readings were reached or examine what the software could and could not establish. Compare the reasoning, alternatives, and limits behind the conclusions.</p></header>
+<div id="method-tabs" class="reading-tabs section-tabs" role="tablist" aria-label="Analysis methods"></div>
+<section class="panel" id="reasoning-method" aria-labelledby="reasoning-method-title">
+<div class="mode-explanation"><h3 id="reasoning-method-title">Reasoning and hypotheses</h3>
+<p>Letter identification, word completion, passage placement, and English meaning are separate decisions. The records below identify where those decisions depend on one another. Qualitative judgments are not calibrated confidence scores.</p></div>
+<ol class="method-chain" id="method-chain"></ol>
+<h3>Working hypotheses and alternatives</h3>
+<div class="hypothesis-grid" id="hypotheses"></div>
+<details><summary>External references and search scope</summary><div id="search-history"></div><p class="small">Reference text: <a href="https://mechon-mamre.org/p/pt/pt0101.htm">Mechon Mamre, Genesis 1</a>. Lexical sources are linked with the hypotheses that use them. The English translations here are composed for this analysis.</p></details>
+</section>
+
+<section class="panel" id="software-method" aria-labelledby="method-title">
+<div class="mode-explanation"><h3 id="method-title">Software and limits</h3><p>Explore the image-processing checks and the shape-matching experiment. The controls below show the audit, comparison glyphs, and deblurring hypotheses. Software scores do not establish a reading on their own.</p></div>
+<div class="statline"><div><strong>26 regions</strong><span>Registered crops</span></div><div><strong>10 views</strong><span>Including unchanged pixels</span></div><div><strong>7 / 13</strong><span>Matcher control agreement; insufficient</span></div></div>
+<div class="details-grid"><div><h3>Image inspection</h3><ul><li>Exact crops and nearest-neighbor enlargement preserve pixel correspondence.</li><li>Autocontrast, background subtraction, unsharp masking, and three thresholds expose stable and unstable features.</li><li>Three Wiener-filter settings test mild deblurring hypotheses. The original blur kernel is unknown; no setting recovered a decisive missing stroke.</li><li>Clearer letters and repeated words from this screenshot provide the comparison samples.</li></ul></div>
+<div><h3>The shape matcher failed its control check</h3><p>It used manually labelled local crops, a soft ink mask, aspect-preserving normalization, small translations, and soft Dice overlap. Its nearest reference agreed with only 7 of 13 held-out manual labels. The tiny sample is neither expert-labelled ground truth nor representative training data.</p><p><strong>No reading is accepted on the basis of these scores.</strong> Threshold-dependent rankings and confusions are retained in the raw results.</p></div></div>
+<details><summary>Show the full matcher control audit</summary><div class="table-wrap"><table><thead><tr><th>Held-out sample</th><th>Manual label</th><th>Nearest class</th><th>Agreement</th></tr></thead><tbody id="audit"></tbody></table></div></details>
+<details><summary>View the glyph atlas</summary><img class="full-image" src="evidence/glyph-atlas.png" alt="Manually cropped local reference glyphs and disputed targets"><p class="small muted">These manual crop labels are hypotheses used for the diagnostic experiment, not independently verified ground truth.</p></details>
+<details><summary>Compare the deblurring hypotheses</summary><img class="full-image" src="evidence/deconvolution-comparison.png" alt="Original and three Wiener deblurring hypotheses for the disputed groups"></details>
+<p class="notice small" style="margin-top:20px">The screenshot is the present evidence limit. A higher-resolution source photograph or a differently illuminated image could add information; another filter applied to these pixels does not provide an independent observation.</p>
+</section>
+</section>
+<footer class="panel">
+<h2>Source and reproducibility</h2><p class="small" id="source-name"></p><p class="mono" id="hash"></p>
+<p class="small"><a href="evidence/source.png">Source pixel copy</a> · <a href="evidence/manifest.json">Crop coordinates and filter parameters</a> · <a href="evidence/glyph-comparison.json">Complete matcher results</a> · <a href="evidence/transcription.txt">Plain-text transcription</a> · <a href="evidence/analysis-report.md">Written analysis and reproduction steps</a></p>
+<p class="small muted">A standalone evidence viewer. All images, interface assets, and analysis data are served with this site.</p>
+</footer>
+</main>
+<script defer src="assets/data.js"></script>
+<script defer src="assets/section-tabs.js"></script>
+<script defer src="assets/app.js"></script>
+<script defer src="assets/segmentation.js"></script>
+<script defer src="assets/interpretation.js"></script></body></html>

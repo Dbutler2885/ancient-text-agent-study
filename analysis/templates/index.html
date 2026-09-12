@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Explore a Hebrew manuscript fragment through registered image crops, word segmentation, and a cited textual-location analysis.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<title>Hebrew fragment: transcription, translation, and evidence</title>
+<link rel="stylesheet" href="assets/vendor/daisyui.css">
+<link rel="stylesheet" href="assets/vendor/themes.css">
+
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body><noscript><p class="notice">Enable JavaScript to use the interactive viewer. The <a href="evidence/transcription.txt">transcription</a> and <a href="evidence/analysis-report.md">written analysis</a> are also available as downloads.</p></noscript><main>
+<section class="article-opening" aria-labelledby="article-title">
+<header class="article-masthead">
+<p class="eyebrow">A Hebrew fragment / text and evidence</p>
+<h1 id="article-title">Read the fragment. <em>Follow the reasoning.</em></h1>
+<p class="article-deck">The surviving phrases follow Genesis 1. Explore what the image preserves,<br class="desktop-break"> what context suggests, and what a reference text supplies.</p>
+</header>
+<figure class="article-figure"><img src="evidence/source.png" alt="The supplied Hebrew manuscript fragment" width="1518" height="1306"><figcaption>The supplied image · <a href="#evidence">Inspect the writing</a><span>No reverse image search · Readings remain provisional</span></figcaption></figure>
+<div class="article-footer">
+<nav class="article-contents" aria-labelledby="contents-title"><h2 id="contents-title">Contents</h2><div class="article-chapters"><a href="#reading-modes"><span>01</span> Read the text</a><a href="#evidence"><span>02</span> Inspect the image</a><a href="#reasoning"><span>03</span> Review the method</a></div></nav>
+<section class="article-guide" aria-labelledby="guide-title"><h2 id="guide-title">How to use this page</h2><p>Start with the strict text, or select a contextual reading or fuller reconstruction. Read Hebrew alongside English. Open <b>Reading notes</b> for the reasoning, then <b>Inspect the image</b> to check a crop and return to your place.</p></section>
+</div>
+</section>
+
+__INTERPRETATION_SECTION__
+<section class="chapter-section" id="evidence" aria-labelledby="evidence-title">
+<header class="reading-chapter-heading"><p class="eyebrow">02</p><h2 id="evidence-title">Inspect the image</h2><p class="section-introduction">Explore each tab below to compare disputed readings, magnify the source image, examine word boundaries, and check passage locations. Use the controls within each tab to follow the evidence.</p></header>
+<div id="evidence-tabs" class="reading-tabs section-tabs" role="tablist" aria-label="Image inspection tools"></div>
+<section class="panel" id="case-panel" aria-labelledby="case-title">
+<div class="mode-explanation"><h3>Disputed readings</h3><p>Choose one of the four disputed readings below to see its explanation and comparison letters. Open a comparison crop in the Pixel inspection tab for a magnified view. The labels distinguish strengthened readings from those that remain provisional or partial.</p></div>
+<nav class="cases" id="cases" aria-label="Disputed readings"></nav>
+<div class="status-line"><span class="badge badge-outline" id="case-status"></span><span class="small muted" id="case-id"></span></div>
+<h2 id="case-title" style="margin-top:14px"></h2><div class="reading-large" id="case-reading" lang="he"></div>
+<div class="grid2"><div><h3>Visible structure</h3><p id="observation"></p></div><div><h3>Comparison and conclusion</h3><p id="comparison"></p><p id="conclusion"></p></div></div>
+<p class="small muted" id="previous"></p>
+<h3>Compare the same hand</h3><div class="refs" id="refs"></div>
+</section>
+<section class="panel" id="inspection" aria-labelledby="inspection-title">
+<div class="mode-explanation"><div class="inspection-heading"><h3 id="inspection-title">Pixel inspection</h3><a id="return-to-reading" href="#reading-modes">Back to the reading ↑</a></div><p>The left view always shows unchanged source pixels. Change the right view, enlarge both, or open a reference crop. Large views can be panned inside their frames. Pointer coordinates refer to the original screenshot.</p></div>
+<div class="controls">
+<label>Region<select class="select select-bordered" id="region" autocomplete="off"></select></label>
+<label>Inspection view<select class="select select-bordered" id="mode"></select></label>
+<label>Magnification <span id="zoom-label">4×</span><input class="range range-sm" id="zoom" type="range" min="1" max="8" step="1" value="4"></label>
+<button class="btn btn-sm" id="fit">Fit frames</button>
+</div>
+<p class="small muted" id="coordinates"></p>
+<div class="grid2">
+<div><div class="image-title"><strong>Source pixels</strong><span class="mono" id="pointer">Move over a crop for coordinates</span></div><div class="image-box" id="source-box"><img id="original" alt="Unchanged crop from the source screenshot"></div></div>
+<div><div class="image-title"><strong id="mode-title">Contrast</strong><button class="btn btn-xs" id="blink" aria-pressed="false">Show original here</button></div><div class="image-box" id="derived-box"><img id="derived" alt="Processed inspection view of the selected crop"></div></div>
+</div>
+<p id="processing-note" class="small muted" style="margin-top:12px"></p>
+<div class="notice small">Filters can amplify cracks, join separate strokes, erase faint ink, or create ringing. A detail seen only in a processed view is not accepted as a recovered letter.</div>
+<details><summary>Locate this region in the source image</summary><div class="map-wrap"><canvas id="map" width="1518" height="1306" class="full-image" aria-label="Source image with selected region outlined"></canvas></div></details>
+</section>
+__SEGMENTATION_SECTION__
+</section>
+<section class="chapter-section" id="reasoning" aria-labelledby="reasoning-title">
+<header class="reading-chapter-heading"><p class="eyebrow">03</p><h2 id="reasoning-title">Review the method</h2><p class="section-introduction">Explore each tab below to follow how the readings were reached or examine what the software could and could not establish. Compare the reasoning, alternatives, and limits behind the conclusions.</p></header>
+<div id="method-tabs" class="reading-tabs section-tabs" role="tablist" aria-label="Analysis methods"></div>
+__METHOD_SECTION__
+<section class="panel" id="software-method" aria-labelledby="method-title">
+<div class="mode-explanation"><h3 id="method-title">Software and limits</h3><p>Explore the image-processing checks and the shape-matching experiment. The controls below show the audit, comparison glyphs, and deblurring hypotheses. Software scores do not establish a reading on their own.</p></div>
+<div class="statline"><div><strong>26 regions</strong><span>Registered crops</span></div><div><strong>10 views</strong><span>Including unchanged pixels</span></div><div><strong>7 / 13</strong><span>Matcher control agreement; insufficient</span></div></div>
+<div class="details-grid"><div><h3>Image inspection</h3><ul><li>Exact crops and nearest-neighbor enlargement preserve pixel correspondence.</li><li>Autocontrast, background subtraction, unsharp masking, and three thresholds expose stable and unstable features.</li><li>Three Wiener-filter settings test mild deblurring hypotheses. The original blur kernel is unknown; no setting recovered a decisive missing stroke.</li><li>Clearer letters and repeated words from this screenshot provide the comparison samples.</li></ul></div>
+<div><h3>The shape matcher failed its control check</h3><p>It used manually labelled local crops, a soft ink mask, aspect-preserving normalization, small translations, and soft Dice overlap. Its nearest reference agreed with only 7 of 13 held-out manual labels. The tiny sample is neither expert-labelled ground truth nor representative training data.</p><p><strong>No reading is accepted on the basis of these scores.</strong> Threshold-dependent rankings and confusions are retained in the raw results.</p></div></div>
+<details><summary>Show the full matcher control audit</summary><div class="table-wrap"><table><thead><tr><th>Held-out sample</th><th>Manual label</th><th>Nearest class</th><th>Agreement</th></tr></thead><tbody id="audit"></tbody></table></div></details>
+<details><summary>View the glyph atlas</summary><img class="full-image" src="evidence/glyph-atlas.png" alt="Manually cropped local reference glyphs and disputed targets"><p class="small muted">These manual crop labels are hypotheses used for the diagnostic experiment, not independently verified ground truth.</p></details>
+<details><summary>Compare the deblurring hypotheses</summary><img class="full-image" src="evidence/deconvolution-comparison.png" alt="Original and three Wiener deblurring hypotheses for the disputed groups"></details>
+<p class="notice small" style="margin-top:20px">The screenshot is the present evidence limit. A higher-resolution source photograph or a differently illuminated image could add information; another filter applied to these pixels does not provide an independent observation.</p>
+</section>
+</section>
+<footer class="panel">
+<h2>Source and reproducibility</h2><p class="small" id="source-name"></p><p class="mono" id="hash"></p>
+<p class="small"><a href="evidence/source.png">Source pixel copy</a> · <a href="evidence/manifest.json">Crop coordinates and filter parameters</a> · <a href="evidence/glyph-comparison.json">Complete matcher results</a> · <a href="evidence/transcription.txt">Plain-text transcription</a> · <a href="evidence/analysis-report.md">Written analysis and reproduction steps</a></p>
+<p class="small muted">A standalone evidence viewer. All images, interface assets, and analysis data are served with this site.</p>
+</footer>
+</main>
+<script defer src="assets/data.js"></script>
+<script defer src="assets/section-tabs.js"></script>
+<script defer src="assets/app.js"></script>
+<script defer src="assets/segmentation.js"></script>
+<script defer src="assets/interpretation.js"></script></body></html>

@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+.lavish/
+.git/
+node_modules/
+dist/
+analysis/
+Screenshot*.png
+*.zip
+**/__pycache__/

@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+.lavish/
+.vercel/
+node_modules/
+dist/
+__pycache__/
+*.zip

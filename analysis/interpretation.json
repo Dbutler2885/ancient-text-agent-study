@@ -1,0 +1,692 @@
+{
+  "reference": {
+    "label": "Mechon Mamre: Genesis 1, Hebrew reference",
+    "url": "https://mechon-mamre.org/p/pt/pt0101.htm"
+  },
+  "rows": [
+    {
+      "verse": 1,
+      "association": "This reading associates detached S02 with S01 by textual order. It does not establish a physical join.",
+      "chunks": [
+        {
+          "hebrew": "בראשית",
+          "english": "In the beginning,",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The opening word is supplied entirely from Genesis 1:1. The image cannot adjudicate the syntax of an opening it does not securely preserve.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v1-p1"
+        },
+        {
+          "hebrew": "ברא אלהים",
+          "english": "God created",
+          "kind": "inferred",
+          "segments": [
+            "S02",
+            "S01"
+          ],
+          "basis": "S02 provisionally favors ברא; S01 preserves אלהים. Combining them supplies a subject and verb in reference order. All three letters of S02 remain uncertain in the image-only record.",
+          "context": true,
+          "hypothesis": "create",
+          "id": "v1-p2"
+        },
+        {
+          "hebrew": "את השמים ואת הארץ",
+          "english": "the heavens and the earth.",
+          "kind": "observed",
+          "segments": [
+            "S01"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v1-p3"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "chunks": [
+        {
+          "hebrew": "והארץ היתה תהו ובהו וחשך על פני תהום",
+          "english": "The earth was formless and empty, and darkness was over the surface of the deep.",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "This entire preceding clause comes from the reference. No transcribed physical group supplies it.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v2-p1"
+        },
+        {
+          "hebrew": "ורוח אלהים מרחפת על פני המים",
+          "english": "And God’s spirit was hovering over the surface of the waters.",
+          "kind": "observed",
+          "segments": [
+            "S03"
+          ],
+          "basis": "The consonants support רוח אלהים and מרחפת. “God’s spirit” is a working lexical choice; “a wind from God” remains viable. “Was” supplies ordinary English grammar.",
+          "context": true,
+          "hypothesis": "spirit",
+          "id": "v2-p2",
+          "translation_decision": "English choice: “God’s spirit”; alternative: “a wind from God.”"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "association": "No securely transcribed surviving group is assigned to this verse. Its presence here is reference restoration, not evidence for a scribal omission or a reconstructed physical gap.",
+      "chunks": [
+        {
+          "hebrew": "ויאמר אלהים יהי אור ויהי אור",
+          "english": "God said, “Let there be light,” and there was light.",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "All wording is supplied from Genesis 1:3. Familiarity with this verse is not evidence that any of its letters survive.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v3-p1"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "chunks": [
+        {
+          "hebrew": "וירא אלהים",
+          "english": "God saw",
+          "kind": "supplied",
+          "segments": [
+            "S04"
+          ],
+          "basis": "The reference supplies וירא and completes the partial divine name at the beginning of S04. The image does not securely establish the complete verb.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v4-p1"
+        },
+        {
+          "hebrew": "את האור כי טוב",
+          "english": "that the light was good.",
+          "kind": "observed",
+          "segments": [
+            "S04"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v4-p2"
+        },
+        {
+          "hebrew": "ויבדל אלהים",
+          "english": "And God separated",
+          "kind": "inferred",
+          "segments": [
+            "S04"
+          ],
+          "basis": "ויבדל and the following אלה prefix survive. The repeated divine name and matching syntax favor אלהים; the final ים are completed, not observed.",
+          "context": true,
+          "hypothesis": "god",
+          "id": "v4-p3"
+        },
+        {
+          "hebrew": "בין האור ובין החשך",
+          "english": "the light from the darkness.",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The objects of separation are missing from the transcribed group and supplied from Genesis 1:4.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v4-p4"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "association": "S06 is associated with S05 because of its position and the reference sequence. S07 supplies the day count separately. The reconstruction does not prove how these pieces originally joined.",
+      "chunks": [
+        {
+          "hebrew": "ויקרא אלהים לאור",
+          "english": "God called the light",
+          "kind": "observed",
+          "segments": [
+            "S06",
+            "S05"
+          ],
+          "basis": "The phrase combines separate surviving groups in the reference order. Its verbal reading is visible; the association of the groups is contextual.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v5-p1"
+        },
+        {
+          "hebrew": "יומם",
+          "english": "“Daytime,”",
+          "kind": "observed",
+          "segments": [
+            "S05"
+          ],
+          "basis": "The image reading has both a medial and final mem. “Daytime” is a contextual noun interpretation, supported by a lexical use of יומם; it is not a correction to reference יום.",
+          "context": true,
+          "hypothesis": "daytime",
+          "id": "v5-p2",
+          "translation_decision": "English choice: “Daytime,” treating יומם as a noun in the naming clause."
+        },
+        {
+          "hebrew": "ולחשך",
+          "english": "and the darkness",
+          "kind": "observed",
+          "segments": [
+            "S05"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v5-p3"
+        },
+        {
+          "hebrew": "קרא",
+          "english": "he called",
+          "kind": "inferred",
+          "segments": [
+            "S05"
+          ],
+          "basis": "The visible קר prefix plus the naming construction favors קרא. The final aleph is a completion, not an observed letter.",
+          "context": true,
+          "hypothesis": "call",
+          "id": "v5-p4"
+        },
+        {
+          "hebrew": "לילה",
+          "english": "“Night.”",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The name is supplied entirely from the reference; no letters of לילה are transcribed in S05.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v5-p5"
+        },
+        {
+          "hebrew": "ויהי ערב ויהי בקר",
+          "english": "There was evening and there was morning:",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The refrain is reference wording. Neither this restoration nor the line layout establishes its missing physical extent.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v5-p6"
+        },
+        {
+          "hebrew": "יום אחד",
+          "english": "one day.",
+          "kind": "observed",
+          "segments": [
+            "S07"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v5-p7"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "chunks": [
+        {
+          "hebrew": "ויאמר אלהים יהי",
+          "english": "God said: Let there be",
+          "kind": "observed",
+          "segments": [
+            "S08"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v6-p1"
+        },
+        {
+          "hebrew": "רקיע",
+          "english": "an expanse",
+          "kind": "observed",
+          "segments": [
+            "S08"
+          ],
+          "basis": "The noun is readable; the English choice concerns its meaning. “Vault” is an alternative that foregrounds its physical cosmological sense.",
+          "context": true,
+          "hypothesis": "expanse",
+          "id": "v6-p2",
+          "translation_decision": "English choice: “expanse”; alternative: “vault.”"
+        },
+        {
+          "hebrew": "בתוך המים ויהי",
+          "english": "within the waters, and let it be",
+          "kind": "observed",
+          "segments": [
+            "S08"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v6-p3"
+        },
+        {
+          "hebrew": "מבדיל",
+          "english": "a separator",
+          "kind": "inferred",
+          "segments": [
+            "S08"
+          ],
+          "basis": "The visible מב prefix, syntax after ויהי, and the parallel in Genesis 1:6 favor the participle מבדיל. Only the prefix is represented as visible in the diplomatic record.",
+          "context": true,
+          "hypothesis": "separate",
+          "id": "v6-p4"
+        },
+        {
+          "hebrew": "בין מים למים",
+          "english": "between waters and waters.",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The rest of the clause is supplied from Genesis 1:6.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v6-p5"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "chunks": [
+        {
+          "hebrew": "ויעש אלהים",
+          "english": "God made",
+          "kind": "supplied",
+          "segments": [
+            "S09"
+          ],
+          "basis": "אלהים survives, but the entire preceding verb is supplied from Genesis 1:7. The phrase is labelled supplied because that verb determines its English proposition.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v7-p1"
+        },
+        {
+          "hebrew": "את הרקיע ויבדל בין המים אשר",
+          "english": "the expanse and separated the waters which were",
+          "kind": "observed",
+          "segments": [
+            "S09"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v7-p2"
+        },
+        {
+          "hebrew": "מתחת",
+          "english": "below",
+          "kind": "inferred",
+          "segments": [
+            "S09"
+          ],
+          "basis": "The visible מת prefix is completed by syntax, its contrast with the surviving מעל, and Genesis 1:7. The missing חת are not visually recovered.",
+          "context": true,
+          "hypothesis": "beneath",
+          "id": "v7-p3"
+        },
+        {
+          "hebrew": "לרקיע ובין המים אשר",
+          "english": "the expanse from the waters which were",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "This bridge comes from the reference. Its length and fit in the missing area have not been demonstrated.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v7-p4"
+        },
+        {
+          "hebrew": "מעל לרקיע ויהי כן",
+          "english": "above the expanse. And it was so.",
+          "kind": "observed",
+          "segments": [
+            "S10"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v7-p5"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "association": "S10 crosses the modern boundary between Genesis 1:7 and 1:8. S11 is a separate physical group.",
+      "chunks": [
+        {
+          "hebrew": "ויקרא אלהים לרקיע",
+          "english": "God called the expanse",
+          "kind": "observed",
+          "segments": [
+            "S10"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v8-p1"
+        },
+        {
+          "hebrew": "שמים",
+          "english": "“Sky.”",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The missing name is supplied from Genesis 1:8. “Sky” and “heavens” render the same Hebrew noun in different naming contexts.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v8-p2"
+        },
+        {
+          "hebrew": "ויהי ערב ויהי בקר",
+          "english": "There was evening and there was morning:",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "This refrain is supplied from the reference.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v8-p3"
+        },
+        {
+          "hebrew": "יום שני",
+          "english": "a second day.",
+          "kind": "observed",
+          "segments": [
+            "S11"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v8-p4"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "chunks": [
+        {
+          "hebrew": "ויאמר אלהים",
+          "english": "God said:",
+          "kind": "inferred",
+          "segments": [
+            "S12"
+          ],
+          "basis": "The initial וי plus unreadable and missing material does not independently identify the verb. The repeated formula ויאמר אלהים, following יקוו, and Genesis 1:9 favor this completion.",
+          "context": true,
+          "hypothesis": "said",
+          "id": "v9-p1"
+        },
+        {
+          "hebrew": "יקוו המים מתחת לשמים",
+          "english": "Let the waters beneath the heavens be gathered",
+          "kind": "observed",
+          "segments": [
+            "S12"
+          ],
+          "basis": "Preserves the visible ל in לשמים. The reference has השמים. The English spatial relation remains “beneath the heavens”; the translation must not conceal the Hebrew difference.",
+          "context": true,
+          "hypothesis": "skies",
+          "id": "v9-p2"
+        },
+        {
+          "hebrew": "אל מקום אחד ותראה היבשה ויהי כן",
+          "english": "into one place, and let the dry land appear. And it was so.",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The remainder of the verse is reference restoration, not a recovered continuation.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v9-p3"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "association": "The short phrase כי טוב also matches 1:4. Its lower position and neighboring wording favor 1:10, without making the phrase independently diagnostic.",
+      "chunks": [
+        {
+          "hebrew": "ויקרא אלהים ליבשה",
+          "english": "God called the dry land",
+          "kind": "observed",
+          "segments": [
+            "S13"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v10-p1"
+        },
+        {
+          "hebrew": "ארץ",
+          "english": "“Land,”",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "The name is supplied from Genesis 1:10.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v10-p2"
+        },
+        {
+          "hebrew": "ולמקוה המים קרא ימים",
+          "english": "and the gathering of the waters he called “Seas.”",
+          "kind": "supplied",
+          "segments": [],
+          "basis": "This whole clause comes from the reference.",
+          "context": false,
+          "hypothesis": null,
+          "id": "v10-p3"
+        },
+        {
+          "hebrew": "וירא אלהים",
+          "english": "God saw",
+          "kind": "supplied",
+          "segments": [
+            "S14"
+          ],
+          "basis": "The reference supplies the subject and verb before the surviving כי טוב.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v10-p4"
+        },
+        {
+          "hebrew": "כי טוב",
+          "english": "that it was good.",
+          "kind": "observed",
+          "segments": [
+            "S14"
+          ],
+          "basis": "The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.",
+          "context": true,
+          "hypothesis": null,
+          "id": "v10-p5"
+        }
+      ]
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "create",
+      "title": "The detached word: ברא?",
+      "reading": "ב̣ר̣א̣",
+      "preferred": "Favor ברא, “created,” provisionally.",
+      "evidence": "The rightmost form is bet-like and the leftmost form aleph-like; the middle letter is weakest. The resulting word fits before the preserved opening clause of Genesis.",
+      "alternatives": "פני was an earlier proposal, but the local shapes fit it less well. A partly unreadable word remains an honest alternative.",
+      "limit": "The textual fit is not independent confirmation of the strokes. All three letters remain dotted, and a physical join with S01 is unproved.",
+      "segments": [
+        "S02",
+        "S01"
+      ],
+      "sources": []
+    },
+    {
+      "id": "daytime",
+      "title": "יומם: reading versus meaning",
+      "reading": "יומם",
+      "preferred": "Preserve יומם in Hebrew; tentatively translate the name as “Daytime.”",
+      "evidence": "A medial mem-shaped form precedes the closed final mem. The spacing diagnostic favors one graphic word. Brown-Driver-Briggs records both a rare noun “daytime” and the common adverb “by day.” The naming construction favors the noun here.",
+      "alternatives": "An accidental extra mem by the scribe or an erroneous visual reading remain possible. The adverbial sense is less natural as the name given to light in this construction.",
+      "limit": "The screenshot supplies no vowels. Lexical attestation makes the noun interpretation possible; it does not establish scribal intention, an authentic textual variant, or a manuscript family.",
+      "segments": [
+        "S05"
+      ],
+      "sources": [
+        {
+          "label": "Brown-Driver-Briggs: יומם (via Bible Hub)",
+          "url": "https://biblehub.com/hebrew/3119.htm"
+        }
+      ]
+    },
+    {
+      "id": "spirit",
+      "title": "רוח אלהים: English cannot preserve every option",
+      "reading": "רוח אלהים מרחפת",
+      "preferred": "Use “God’s spirit was hovering,” with “a wind from God” retained as a substantive alternative.",
+      "evidence": "רוח admits wind, breath, and spirit. The participle מרחפת supports hovering or fluttering; BDB compares the bird imagery in Deuteronomy 32:11. The image preserves the lexical ambiguity rather than resolving it.",
+      "alternatives": "“A wind from God was hovering” assigns a different sense to רוח while retaining the divine relation. The Hebrew script alone does not choose between these readings.",
+      "limit": "This working translation does not establish a later theological identification. The lexical judgment is separate from recognizing the consonants.",
+      "segments": [
+        "S03"
+      ],
+      "sources": [
+        {
+          "label": "BDB: רוח",
+          "url": "https://biblehub.com/hebrew/7307.htm"
+        },
+        {
+          "label": "BDB: רחף",
+          "url": "https://biblehub.com/hebrew/7363.htm"
+        }
+      ]
+    },
+    {
+      "id": "expanse",
+      "title": "רקיע: expanse or vault?",
+      "reading": "רקיע",
+      "preferred": "Use “expanse,” with “vault” as an explanatory alternative.",
+      "evidence": "The surviving clauses put waters in relation to this expanse, including waters above it. BDB describes an extended surface and the heavenly vault that supports upper waters.",
+      "alternatives": "“Vault” makes the physical cosmological picture more explicit. “Firmament” carries a traditional English history but needs explanation for many readers.",
+      "limit": "“Expanse” can sound less material than the ancient picture. No pixel treatment can settle this semantic choice, and “atmosphere” would introduce a modern identification not established by the fragment.",
+      "segments": [
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "sources": [
+        {
+          "label": "BDB: רקיע",
+          "url": "https://biblehub.com/hebrew/7549.htm"
+        }
+      ]
+    },
+    {
+      "id": "skies",
+      "title": "לשמים: a difference that English can hide",
+      "reading": "מתחת לשמים",
+      "preferred": "Preserve the initial lamed and translate “beneath the heavens.”",
+      "evidence": "The tall initial ascender agrees with clearer lamed forms in the same hand. The reference has מתחת השמים; the image reading is מתחת לשמים.",
+      "alternatives": "Reading he would harmonize the phrase with the reference, but fits the visible tall stroke less well. The prefixed lamed can be understood as specifying the spatial relation.",
+      "limit": "An English rendering can be the same while the Hebrew differs. This comparison with one reference edition does not establish a historically attested variant or its origin.",
+      "segments": [
+        "S12"
+      ],
+      "sources": []
+    },
+    {
+      "id": "next",
+      "title": "The final prefix: a possible next verse",
+      "reading": "ויא̣◊",
+      "preferred": "Conjecture ויאמר, “And [God] said,” as a possible opening of Genesis 1:11.",
+      "evidence": "The prefix favors וי plus a probable aleph; ויאמר is readable elsewhere in this image. In the reference, that verb begins the verse after the likely 1:10 material.",
+      "alternatives": "The incomplete group cannot uniquely identify a whole word or verse. Earlier complete readings ויהי and וירא were withdrawn after inspection.",
+      "limit": "This is a contextual conjecture, not a completed visual reading. It is kept out of the reconstructed passage; neither מר nor the following אלהים is asserted as visible here.",
+      "segments": [
+        "S15"
+      ],
+      "sources": []
+    },
+    {
+      "id": "god",
+      "title": "Completing a repeated name",
+      "reading": "אלה[…] → אלהים",
+      "preferred": "Complete the partial divine name as אלהים in the interpretive mode.",
+      "evidence": "אלה survives, the same complete word recurs locally, and the syntax and reference agree.",
+      "alternatives": "The completion depends on identifying the surviving letters correctly.",
+      "limit": "The repeated formula does not make the missing ים visible.",
+      "segments": [
+        "S04"
+      ],
+      "sources": []
+    },
+    {
+      "id": "call",
+      "title": "Completing the naming verb",
+      "reading": "קר[…] → קרא",
+      "preferred": "Supply the final aleph of קרא, “called.”",
+      "evidence": "The visible prefix, the light/darkness naming parallel, and the reference agree.",
+      "alternatives": "Without the naming context, קר alone would not uniquely establish this word.",
+      "limit": "The supplied final letter remains an inference.",
+      "segments": [
+        "S05"
+      ],
+      "sources": []
+    },
+    {
+      "id": "separate",
+      "title": "Completing the separator",
+      "reading": "מב[…] → מבדיל",
+      "preferred": "Read מבדיל, “separating” or “a separator,” in the interpretive mode.",
+      "evidence": "The visible מב, the preceding ויהי construction, and Genesis 1:6 support the participle.",
+      "alternatives": "The two-letter prefix alone does not uniquely determine the missing ending.",
+      "limit": "The three final letters come from contextual completion, not image recovery.",
+      "segments": [
+        "S08"
+      ],
+      "sources": []
+    },
+    {
+      "id": "beneath",
+      "title": "Completing a spatial contrast",
+      "reading": "מת[…] → מתחת",
+      "preferred": "Complete מתחת, “below,” opposite the surviving מעל, “above.”",
+      "evidence": "The prefix and the above/below opposition fit the local waters passage and reference.",
+      "alternatives": "The prefix alone is not diagnostic, and the intervening clause is absent.",
+      "limit": "Reference restoration is still needed to connect the surviving clauses.",
+      "segments": [
+        "S09",
+        "S10"
+      ],
+      "sources": []
+    },
+    {
+      "id": "said",
+      "title": "Restoring the speech formula",
+      "reading": "וי◊[…] → ויאמר",
+      "preferred": "Use ויאמר, “said,” before “Let the waters ...”.",
+      "evidence": "The visible prefix, following directive, repeated local formula, and Genesis 1:9 fit this reading.",
+      "alternatives": "Only וי is secure at the beginning. The following traces do not independently establish אמר.",
+      "limit": "This is a context-dependent verb restoration. The diplomatic mode keeps the unreadable trace and lacuna.",
+      "segments": [
+        "S12"
+      ],
+      "sources": []
+    }
+  ],
+  "method": [
+    "Observe: record provisional letters, word windows, and damage by physical group before adding reference restorations.",
+    "Compare locally: inspect disputed shapes against clearer letters in this image. Use filter stability as a diagnostic, not independent corroboration.",
+    "Locate: compare longer preserved phrases with the declared Genesis reference. Short repeated phrases need spatial and sequential context.",
+    "Infer: propose damaged-word completions using visible prefixes, grammar, repetition, and textual fit. Record the dependence on the reference rather than counting it twice.",
+    "Translate: choose English senses separately from Hebrew letter readings, documenting meaningful alternatives with lexical sources.",
+    "Restore: supply larger gaps from the reference only in explicitly marked phrases. No restoration establishes the missing physical extent or original line layout."
+  ],
+  "search_history": [
+    "Image stage: no reverse image search, manuscript-identification search, external manuscript image, OCR service, or generative restoration.",
+    "Location stage: opened Mechon Mamre Genesis 1 directly after recognizing longer phrases. The alignment program compares only Genesis 1:1–11, not the whole Bible.",
+    "Interpretation stage: searched for lexical and translation discussion of Genesis 1 and the Hebrew terms יומם, רוח, רחף, and רקיע. The cited lexical evidence is Brown-Driver-Briggs displayed on Bible Hub. No manuscript identity was sought.",
+    "These stages are sequential, not a blind experiment: familiar wording and earlier discussion were already in context. Proposed spellings have not been independently reviewed by a manuscript specialist."
+  ]
+}

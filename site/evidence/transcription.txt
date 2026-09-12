@@ -1,0 +1,63 @@
+Provisional transcription from the supplied screenshot only.
+[…] = missing extent, uncounted; ◊ = unreadable surviving trace(s), uncounted; underdot = uncertain letter.
+S-numbers identify physical groups, not reconstructed manuscript lines.
+
+S01  […] אלהים את השמים ואת הארץ
+  […] God, the heavens and the earth
+  Note: The isolated upper-right group is recorded separately as S02.
+
+S02  ב̣ר̣א̣
+  Possibly ‘created’, if the provisional reading is correct.
+  Note: Damaged word; physical association with S01 is not asserted.
+
+S03  […] ורוח אלהים מרחפת על פני המים
+  […] and the spirit/wind of God hovering over the surface of the waters
+  Note: The translation leaves the ambiguity of רוח open.
+
+S04  ◊[…]הים את האור כי טוב ויבדל אלה[…]
+  […] the light, that [it was] good; and […] separated […]
+  Note: Partial divine-name spellings remain partial. Square brackets in English indicate grammatical supplementation only.
+
+S05  אלהים לאור יומם ולחשך קר[…]
+  God, the light, ‘day/daytime’, and the darkness, [partial word …]
+  Note: Conservative fragment rendering. The preserved לאור has prefixed ל; the English fragment lists the objects without completing the governing clause. יומם is retained exactly in Hebrew; its syntax and vocalization are not settled by the screenshot.
+
+S06  ויקרא
+  And he called
+  Note: Separate physical group to the right of S05; no reconstructed join is printed.
+
+S07  יום אחד
+  One day
+  Note: Separate surviving group.
+
+S08  ויאמר אלהים יהי רקיע בתוך המים ויהי מב[…]
+  And God said, ‘Let there be an expanse within the waters, and let [it] be …’ [partial word]
+  Note: Upper row of the middle block. מב is not expanded to a complete verb or participle.
+
+S09  […] אלהים את הרקיע ויבדל בין המים אשר מת[…]
+  […] God, the expanse, and he separated between the waters which […]
+  Note: Middle row. The final surviving מת is not expanded to מתחת in the translation.
+
+S10  מעל לרקיע ויהי כן ויקרא אלהים לרקיע
+  Above the expanse; and it was so. And God called the expanse […]
+  Note: Lower row. The name assigned to the expanse is not supplied.
+
+S11  יום שני
+  A second day
+  Note: Separate surviving group.
+
+S12  וי◊[…] אלהים יקוו המים מתחת לשמים
+  […] God, ‘Let the waters beneath the heavens be gathered […]’
+  Note: Upper long row of the bottom block. לשמים has a visible initial lamed.
+
+S13  […] ויקרא אלהים ליבשה
+  […] and God called the dry land […]
+  Note: Second long row of the bottom block. Adjacent faint marks are not securely lettered.
+
+S14  כי טוב
+  That [it was] good
+  Note: Separate group near the lower middle.
+
+S15  ויא̣◊
+  Untranslated partial word; וי followed by a probable aleph and an unreadable trace.
+  Note: No completion to ויאמר, וירא, or ויהי.

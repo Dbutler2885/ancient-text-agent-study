@@ -1,0 +1,49 @@
+{
+  "cases": [
+    {
+      "id": "B", "title": "The word after לאור", "region": "B_day_word", "reading": "יומם", "status": "Strengthened", "previous": "יום; later יומם(?)",
+      "observation": "Reading from right to left, two small headed strokes are followed by an open mem-shaped form and a larger, closed final-mem form. The open form is visible to the right of the closed loop; it is not just a contrast-induced edge.",
+      "comparison": "The open form resembles the medial mem in the clearer המים crop. The closed form resembles the final mem in אלהים and in the two shorter יום occurrences. Those shorter occurrences provide a useful comparison with a word containing only one mem.",
+      "conclusion": "יומם is the best-supported visual reading. My original יום omitted a visible form. This is a reading of the screenshot, not a claim about the age, authenticity, or textual affiliation of the object.",
+      "refs": ["S_waters_clear", "R_god_clear", "G_day_one", "H_day_two"]
+    },
+    {
+      "id": "D", "title": "The word after מתחת", "region": "D_beneath_skies", "reading": "לשמים", "status": "Strengthened", "previous": "לשמים, insufficiently explained",
+      "observation": "The initial letter has a tall ascender continuous with a bent lower body. It is visibly taller than the adjacent letters. The remaining forms read שמים.",
+      "comparison": "The ascender and lower bend agree with the lamed in the nearby לאור and אלהים crops. They do not look like the shorter he in the same אלהים example.",
+      "conclusion": "Preserve לשמים in the transcription. Substituting השמים would ignore the visible ascender.",
+      "refs": ["K_light", "R_god_clear"]
+    },
+    {
+      "id": "A", "title": "The isolated upper-right group", "region": "A_upper_right", "reading": "ב̣ר̣א̣", "status": "Provisional", "previous": "ברא(?); later פני(?)",
+      "observation": "The rightmost form has a broad head, a descending curved right side, and faint lower traces. The middle form retains a dark head and a disconnected lower trace. The leftmost form has branching strokes but meets the torn edge.",
+      "comparison": "A bet-like right form and aleph-like left form make ברא a better visual candidate than פני. Compare the crossed aleph forms in ויאמר, אלהים, and לאור, and the clearer פני. The middle letter is the weakest part of the proposed reading.",
+      "conclusion": "Favor ברא only as a provisional whole-word reading. All three letters remain dotted. The software did not independently establish it. Keep this physical segment separate from the long top segment instead of asserting their original line relationship.",
+      "refs": ["P_surface_clear", "Q_said_clear", "K_light", "U_good_bottom"]
+    },
+    {
+      "id": "C", "title": "The bottom-left fragment", "region": "C_lower_left", "reading": "ויא̣◊", "status": "Partial reading", "previous": "ויהי(?); later וירא(?)",
+      "observation": "The two rightmost forms resemble the short prefix וי. The next position has branching upper strokes and a separated lower diagonal stroke. Additional dark traces survive at the damaged left edge.",
+      "comparison": "The branching third form favors aleph over the simpler head-and-stem form of the resh in לאור. Compare the prefix of the clearer ויאמר and the he in ויהי. Damage and blur prevent treating that comparison as conclusive.",
+      "conclusion": "Read ויא̣ followed by an unreadable trace. Withdraw the earlier complete proposals ויהי and וירא. Do not supply the remaining letters of ויאמר.",
+      "refs": ["Q_said_clear", "T_and_be_clear", "K_light"]
+    }
+  ],
+  "segments": [
+    {"id":"S01", "region":"L_top_line", "text":"[…] אלהים את השמים ואת הארץ", "translation":"[…] God, the heavens and the earth", "note":"The isolated upper-right group is recorded separately as S02."},
+    {"id":"S02", "region":"A_upper_right", "text":"ב̣ר̣א̣", "translation":"Possibly ‘created’, if the provisional reading is correct.", "note":"Damaged word; physical association with S01 is not asserted."},
+    {"id":"S03", "region":"W_second_line", "text":"[…] ורוח אלהים מרחפת על פני המים", "translation":"[…] and the spirit/wind of God hovering over the surface of the waters", "note":"The translation leaves the ambiguity of רוח open."},
+    {"id":"S04", "region":"X_third_line", "text":"◊[…]הים את האור כי טוב ויבדל אלה[…]", "translation":"[…] the light, that [it was] good; and […] separated […]", "note":"Partial divine-name spellings remain partial. Square brackets in English indicate grammatical supplementation only."},
+    {"id":"S05", "region":"Y_fourth_line", "text":"אלהים לאור יומם ולחשך קר[…]", "translation":"God, the light, ‘day/daytime’, and the darkness, [partial word …]", "note":"Conservative fragment rendering. The preserved לאור has prefixed ל; the English fragment lists the objects without completing the governing clause. יומם is retained exactly in Hebrew; its syntax and vocalization are not settled by the screenshot."},
+    {"id":"S06", "region":"F_called", "text":"ויקרא", "translation":"And he called", "note":"Separate physical group to the right of S05; no reconstructed join is printed."},
+    {"id":"S07", "region":"G_day_one", "text":"יום אחד", "translation":"One day", "note":"Separate surviving group."},
+    {"id":"S08", "region":"N_middle_block", "text":"ויאמר אלהים יהי רקיע בתוך המים ויהי מב[…]", "translation":"And God said, ‘Let there be an expanse within the waters, and let [it] be …’ [partial word]", "note":"Upper row of the middle block. מב is not expanded to a complete verb or participle."},
+    {"id":"S09", "region":"N_middle_block", "text":"[…] אלהים את הרקיע ויבדל בין המים אשר מת[…]", "translation":"[…] God, the expanse, and he separated between the waters which […]", "note":"Middle row. The final surviving מת is not expanded to מתחת in the translation."},
+    {"id":"S10", "region":"N_middle_block", "text":"מעל לרקיע ויהי כן ויקרא אלהים לרקיע", "translation":"Above the expanse; and it was so. And God called the expanse […]", "note":"Lower row. The name assigned to the expanse is not supplied."},
+    {"id":"S11", "region":"H_day_two", "text":"יום שני", "translation":"A second day", "note":"Separate surviving group."},
+    {"id":"S12", "region":"O_bottom_block", "text":"וי◊[…] אלהים יקוו המים מתחת לשמים", "translation":"[…] God, ‘Let the waters beneath the heavens be gathered […]’", "note":"Upper long row of the bottom block. לשמים has a visible initial lamed."},
+    {"id":"S13", "region":"O_bottom_block", "text":"[…] ויקרא אלהים ליבשה", "translation":"[…] and God called the dry land […]", "note":"Second long row of the bottom block. Adjacent faint marks are not securely lettered."},
+    {"id":"S14", "region":"U_good_bottom", "text":"כי טוב", "translation":"That [it was] good", "note":"Separate group near the lower middle."},
+    {"id":"S15", "region":"C_lower_left", "text":"ויא̣◊", "translation":"Untranslated partial word; וי followed by a probable aleph and an unreadable trace.", "note":"No completion to ויאמר, וירא, or ויהי."}
+  ]
+}

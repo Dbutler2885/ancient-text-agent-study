@@ -1,0 +1,543 @@
+{
+  "source": "Screenshot 2026-09-11 at 11.19.55 PM.png",
+  "sha256": "63beb8372cdbf8cb2227ec1c391be87d075f6c0176d24de481783ee5921357c6",
+  "size": [
+    1518,
+    1306
+  ],
+  "coordinate_system": "top-left origin, [left, top, right-exclusive, bottom-exclusive]",
+  "regions": {
+    "A_upper_right": {
+      "box": [
+        1030,
+        345,
+        1180,
+        418
+      ],
+      "files": {
+        "original": "A_upper_right_original.png",
+        "contrast": "A_upper_right_contrast.png",
+        "background": "A_upper_right_background.png",
+        "unsharp": "A_upper_right_unsharp.png",
+        "threshold_65": "A_upper_right_threshold_65.png",
+        "threshold_85": "A_upper_right_threshold_85.png",
+        "threshold_105": "A_upper_right_threshold_105.png",
+        "wiener_mild": "A_upper_right_wiener_mild.png",
+        "wiener_medium": "A_upper_right_wiener_medium.png",
+        "wiener_strong": "A_upper_right_wiener_strong.png"
+      }
+    },
+    "B_day_word": {
+      "box": [
+        416,
+        530,
+        560,
+        598
+      ],
+      "files": {
+        "original": "B_day_word_original.png",
+        "contrast": "B_day_word_contrast.png",
+        "background": "B_day_word_background.png",
+        "unsharp": "B_day_word_unsharp.png",
+        "threshold_65": "B_day_word_threshold_65.png",
+        "threshold_85": "B_day_word_threshold_85.png",
+        "threshold_105": "B_day_word_threshold_105.png",
+        "wiener_mild": "B_day_word_wiener_mild.png",
+        "wiener_medium": "B_day_word_wiener_medium.png",
+        "wiener_strong": "B_day_word_wiener_strong.png"
+      }
+    },
+    "C_lower_left": {
+      "box": [
+        245,
+        1162,
+        365,
+        1248
+      ],
+      "files": {
+        "original": "C_lower_left_original.png",
+        "contrast": "C_lower_left_contrast.png",
+        "background": "C_lower_left_background.png",
+        "unsharp": "C_lower_left_unsharp.png",
+        "threshold_65": "C_lower_left_threshold_65.png",
+        "threshold_85": "C_lower_left_threshold_85.png",
+        "threshold_105": "C_lower_left_threshold_105.png",
+        "wiener_mild": "C_lower_left_wiener_mild.png",
+        "wiener_medium": "C_lower_left_wiener_medium.png",
+        "wiener_strong": "C_lower_left_wiener_strong.png"
+      }
+    },
+    "D_beneath_skies": {
+      "box": [
+        205,
+        999,
+        558,
+        1100
+      ],
+      "files": {
+        "original": "D_beneath_skies_original.png",
+        "contrast": "D_beneath_skies_contrast.png",
+        "background": "D_beneath_skies_background.png",
+        "unsharp": "D_beneath_skies_unsharp.png",
+        "threshold_65": "D_beneath_skies_threshold_65.png",
+        "threshold_85": "D_beneath_skies_threshold_85.png",
+        "threshold_105": "D_beneath_skies_threshold_105.png",
+        "wiener_mild": "D_beneath_skies_wiener_mild.png",
+        "wiener_medium": "D_beneath_skies_wiener_medium.png",
+        "wiener_strong": "D_beneath_skies_wiener_strong.png"
+      }
+    },
+    "E_first_word": {
+      "box": [
+        835,
+        280,
+        1010,
+        389
+      ],
+      "files": {
+        "original": "E_first_word_original.png",
+        "contrast": "E_first_word_contrast.png",
+        "background": "E_first_word_background.png",
+        "unsharp": "E_first_word_unsharp.png",
+        "threshold_65": "E_first_word_threshold_65.png",
+        "threshold_85": "E_first_word_threshold_85.png",
+        "threshold_105": "E_first_word_threshold_105.png",
+        "wiener_mild": "E_first_word_wiener_mild.png",
+        "wiener_medium": "E_first_word_wiener_medium.png",
+        "wiener_strong": "E_first_word_wiener_strong.png"
+      }
+    },
+    "F_called": {
+      "box": [
+        1035,
+        574,
+        1200,
+        645
+      ],
+      "files": {
+        "original": "F_called_original.png",
+        "contrast": "F_called_contrast.png",
+        "background": "F_called_background.png",
+        "unsharp": "F_called_unsharp.png",
+        "threshold_65": "F_called_threshold_65.png",
+        "threshold_85": "F_called_threshold_85.png",
+        "threshold_105": "F_called_threshold_105.png",
+        "wiener_mild": "F_called_wiener_mild.png",
+        "wiener_medium": "F_called_wiener_medium.png",
+        "wiener_strong": "F_called_wiener_strong.png"
+      }
+    },
+    "G_day_one": {
+      "box": [
+        992,
+        658,
+        1200,
+        728
+      ],
+      "files": {
+        "original": "G_day_one_original.png",
+        "contrast": "G_day_one_contrast.png",
+        "background": "G_day_one_background.png",
+        "unsharp": "G_day_one_unsharp.png",
+        "threshold_65": "G_day_one_threshold_65.png",
+        "threshold_85": "G_day_one_threshold_85.png",
+        "threshold_105": "G_day_one_threshold_105.png",
+        "wiener_mild": "G_day_one_wiener_mild.png",
+        "wiener_medium": "G_day_one_wiener_medium.png",
+        "wiener_strong": "G_day_one_wiener_strong.png"
+      }
+    },
+    "H_day_two": {
+      "box": [
+        953,
+        943,
+        1157,
+        1023
+      ],
+      "files": {
+        "original": "H_day_two_original.png",
+        "contrast": "H_day_two_contrast.png",
+        "background": "H_day_two_background.png",
+        "unsharp": "H_day_two_unsharp.png",
+        "threshold_65": "H_day_two_threshold_65.png",
+        "threshold_85": "H_day_two_threshold_85.png",
+        "threshold_105": "H_day_two_threshold_105.png",
+        "wiener_mild": "H_day_two_wiener_mild.png",
+        "wiener_medium": "H_day_two_wiener_medium.png",
+        "wiener_strong": "H_day_two_wiener_strong.png"
+      }
+    },
+    "I_between": {
+      "box": [
+        559,
+        761,
+        802,
+        854
+      ],
+      "files": {
+        "original": "I_between_original.png",
+        "contrast": "I_between_contrast.png",
+        "background": "I_between_background.png",
+        "unsharp": "I_between_unsharp.png",
+        "threshold_65": "I_between_threshold_65.png",
+        "threshold_85": "I_between_threshold_85.png",
+        "threshold_105": "I_between_threshold_105.png",
+        "wiener_mild": "I_between_wiener_mild.png",
+        "wiener_medium": "I_between_wiener_medium.png",
+        "wiener_strong": "I_between_wiener_strong.png"
+      }
+    },
+    "J_lower_called": {
+      "box": [
+        572,
+        1065,
+        737,
+        1153
+      ],
+      "files": {
+        "original": "J_lower_called_original.png",
+        "contrast": "J_lower_called_contrast.png",
+        "background": "J_lower_called_background.png",
+        "unsharp": "J_lower_called_unsharp.png",
+        "threshold_65": "J_lower_called_threshold_65.png",
+        "threshold_85": "J_lower_called_threshold_85.png",
+        "threshold_105": "J_lower_called_threshold_105.png",
+        "wiener_mild": "J_lower_called_wiener_mild.png",
+        "wiener_medium": "J_lower_called_wiener_medium.png",
+        "wiener_strong": "J_lower_called_wiener_strong.png"
+      }
+    },
+    "K_light": {
+      "box": [
+        577,
+        509,
+        700,
+        595
+      ],
+      "files": {
+        "original": "K_light_original.png",
+        "contrast": "K_light_contrast.png",
+        "background": "K_light_background.png",
+        "unsharp": "K_light_unsharp.png",
+        "threshold_65": "K_light_threshold_65.png",
+        "threshold_85": "K_light_threshold_85.png",
+        "threshold_105": "K_light_threshold_105.png",
+        "wiener_mild": "K_light_wiener_mild.png",
+        "wiener_medium": "K_light_wiener_medium.png",
+        "wiener_strong": "K_light_wiener_strong.png"
+      }
+    },
+    "L_top_line": {
+      "box": [
+        275,
+        285,
+        1012,
+        385
+      ],
+      "files": {
+        "original": "L_top_line_original.png",
+        "contrast": "L_top_line_contrast.png",
+        "background": "L_top_line_background.png",
+        "unsharp": "L_top_line_unsharp.png",
+        "threshold_65": "L_top_line_threshold_65.png",
+        "threshold_85": "L_top_line_threshold_85.png",
+        "threshold_105": "L_top_line_threshold_105.png",
+        "wiener_mild": "L_top_line_wiener_mild.png",
+        "wiener_medium": "L_top_line_wiener_medium.png",
+        "wiener_strong": "L_top_line_wiener_strong.png"
+      }
+    },
+    "M_top_block": {
+      "box": [
+        160,
+        280,
+        1210,
+        645
+      ],
+      "files": {
+        "original": "M_top_block_original.png",
+        "contrast": "M_top_block_contrast.png",
+        "background": "M_top_block_background.png",
+        "unsharp": "M_top_block_unsharp.png",
+        "threshold_65": "M_top_block_threshold_65.png",
+        "threshold_85": "M_top_block_threshold_85.png",
+        "threshold_105": "M_top_block_threshold_105.png",
+        "wiener_mild": "M_top_block_wiener_mild.png",
+        "wiener_medium": "M_top_block_wiener_medium.png",
+        "wiener_strong": "M_top_block_wiener_strong.png"
+      }
+    },
+    "N_middle_block": {
+      "box": [
+        162,
+        651,
+        1205,
+        936
+      ],
+      "files": {
+        "original": "N_middle_block_original.png",
+        "contrast": "N_middle_block_contrast.png",
+        "background": "N_middle_block_background.png",
+        "unsharp": "N_middle_block_unsharp.png",
+        "threshold_65": "N_middle_block_threshold_65.png",
+        "threshold_85": "N_middle_block_threshold_85.png",
+        "threshold_105": "N_middle_block_threshold_105.png",
+        "wiener_mild": "N_middle_block_wiener_mild.png",
+        "wiener_medium": "N_middle_block_wiener_medium.png",
+        "wiener_strong": "N_middle_block_wiener_strong.png"
+      }
+    },
+    "O_bottom_block": {
+      "box": [
+        197,
+        944,
+        1191,
+        1255
+      ],
+      "files": {
+        "original": "O_bottom_block_original.png",
+        "contrast": "O_bottom_block_contrast.png",
+        "background": "O_bottom_block_background.png",
+        "unsharp": "O_bottom_block_unsharp.png",
+        "threshold_65": "O_bottom_block_threshold_65.png",
+        "threshold_85": "O_bottom_block_threshold_85.png",
+        "threshold_105": "O_bottom_block_threshold_105.png",
+        "wiener_mild": "O_bottom_block_wiener_mild.png",
+        "wiener_medium": "O_bottom_block_wiener_medium.png",
+        "wiener_strong": "O_bottom_block_wiener_strong.png"
+      }
+    },
+    "P_surface_clear": {
+      "box": [
+        352,
+        397,
+        429,
+        449
+      ],
+      "files": {
+        "original": "P_surface_clear_original.png",
+        "contrast": "P_surface_clear_contrast.png",
+        "background": "P_surface_clear_background.png",
+        "unsharp": "P_surface_clear_unsharp.png",
+        "threshold_65": "P_surface_clear_threshold_65.png",
+        "threshold_85": "P_surface_clear_threshold_85.png",
+        "threshold_105": "P_surface_clear_threshold_105.png",
+        "wiener_mild": "P_surface_clear_wiener_mild.png",
+        "wiener_medium": "P_surface_clear_wiener_medium.png",
+        "wiener_strong": "P_surface_clear_wiener_strong.png"
+      }
+    },
+    "Q_said_clear": {
+      "box": [
+        1032,
+        725,
+        1188,
+        780
+      ],
+      "files": {
+        "original": "Q_said_clear_original.png",
+        "contrast": "Q_said_clear_contrast.png",
+        "background": "Q_said_clear_background.png",
+        "unsharp": "Q_said_clear_unsharp.png",
+        "threshold_65": "Q_said_clear_threshold_65.png",
+        "threshold_85": "Q_said_clear_threshold_85.png",
+        "threshold_105": "Q_said_clear_threshold_105.png",
+        "wiener_mild": "Q_said_clear_wiener_mild.png",
+        "wiener_medium": "Q_said_clear_wiener_medium.png",
+        "wiener_strong": "Q_said_clear_wiener_strong.png"
+      }
+    },
+    "R_god_clear": {
+      "box": [
+        710,
+        510,
+        874,
+        610
+      ],
+      "files": {
+        "original": "R_god_clear_original.png",
+        "contrast": "R_god_clear_contrast.png",
+        "background": "R_god_clear_background.png",
+        "unsharp": "R_god_clear_unsharp.png",
+        "threshold_65": "R_god_clear_threshold_65.png",
+        "threshold_85": "R_god_clear_threshold_85.png",
+        "threshold_105": "R_god_clear_threshold_105.png",
+        "wiener_mild": "R_god_clear_wiener_mild.png",
+        "wiener_medium": "R_god_clear_wiener_medium.png",
+        "wiener_strong": "R_god_clear_wiener_strong.png"
+      }
+    },
+    "S_waters_clear": {
+      "box": [
+        358,
+        702,
+        510,
+        787
+      ],
+      "files": {
+        "original": "S_waters_clear_original.png",
+        "contrast": "S_waters_clear_contrast.png",
+        "background": "S_waters_clear_background.png",
+        "unsharp": "S_waters_clear_unsharp.png",
+        "threshold_65": "S_waters_clear_threshold_65.png",
+        "threshold_85": "S_waters_clear_threshold_85.png",
+        "threshold_105": "S_waters_clear_threshold_105.png",
+        "wiener_mild": "S_waters_clear_wiener_mild.png",
+        "wiener_medium": "S_waters_clear_wiener_medium.png",
+        "wiener_strong": "S_waters_clear_wiener_strong.png"
+      }
+    },
+    "T_and_be_clear": {
+      "box": [
+        239,
+        725,
+        351,
+        778
+      ],
+      "files": {
+        "original": "T_and_be_clear_original.png",
+        "contrast": "T_and_be_clear_contrast.png",
+        "background": "T_and_be_clear_background.png",
+        "unsharp": "T_and_be_clear_unsharp.png",
+        "threshold_65": "T_and_be_clear_threshold_65.png",
+        "threshold_85": "T_and_be_clear_threshold_85.png",
+        "threshold_105": "T_and_be_clear_threshold_105.png",
+        "wiener_mild": "T_and_be_clear_wiener_mild.png",
+        "wiener_medium": "T_and_be_clear_wiener_medium.png",
+        "wiener_strong": "T_and_be_clear_wiener_strong.png"
+      }
+    },
+    "U_good_bottom": {
+      "box": [
+        554,
+        1167,
+        708,
+        1231
+      ],
+      "files": {
+        "original": "U_good_bottom_original.png",
+        "contrast": "U_good_bottom_contrast.png",
+        "background": "U_good_bottom_background.png",
+        "unsharp": "U_good_bottom_unsharp.png",
+        "threshold_65": "U_good_bottom_threshold_65.png",
+        "threshold_85": "U_good_bottom_threshold_85.png",
+        "threshold_105": "U_good_bottom_threshold_105.png",
+        "wiener_mild": "U_good_bottom_wiener_mild.png",
+        "wiener_medium": "U_good_bottom_wiener_medium.png",
+        "wiener_strong": "U_good_bottom_wiener_strong.png"
+      }
+    },
+    "V_day_context": {
+      "box": [
+        410,
+        510,
+        700,
+        602
+      ],
+      "files": {
+        "original": "V_day_context_original.png",
+        "contrast": "V_day_context_contrast.png",
+        "background": "V_day_context_background.png",
+        "unsharp": "V_day_context_unsharp.png",
+        "threshold_65": "V_day_context_threshold_65.png",
+        "threshold_85": "V_day_context_threshold_85.png",
+        "threshold_105": "V_day_context_threshold_105.png",
+        "wiener_mild": "V_day_context_wiener_mild.png",
+        "wiener_medium": "V_day_context_wiener_medium.png",
+        "wiener_strong": "V_day_context_wiener_strong.png"
+      }
+    },
+    "W_second_line": {
+      "box": [
+        170,
+        354,
+        1030,
+        472
+      ],
+      "files": {
+        "original": "W_second_line_original.png",
+        "contrast": "W_second_line_contrast.png",
+        "background": "W_second_line_background.png",
+        "unsharp": "W_second_line_unsharp.png",
+        "threshold_65": "W_second_line_threshold_65.png",
+        "threshold_85": "W_second_line_threshold_85.png",
+        "threshold_105": "W_second_line_threshold_105.png",
+        "wiener_mild": "W_second_line_wiener_mild.png",
+        "wiener_medium": "W_second_line_wiener_medium.png",
+        "wiener_strong": "W_second_line_wiener_strong.png"
+      }
+    },
+    "X_third_line": {
+      "box": [
+        165,
+        435,
+        1100,
+        535
+      ],
+      "files": {
+        "original": "X_third_line_original.png",
+        "contrast": "X_third_line_contrast.png",
+        "background": "X_third_line_background.png",
+        "unsharp": "X_third_line_unsharp.png",
+        "threshold_65": "X_third_line_threshold_65.png",
+        "threshold_85": "X_third_line_threshold_85.png",
+        "threshold_105": "X_third_line_threshold_105.png",
+        "wiener_mild": "X_third_line_wiener_mild.png",
+        "wiener_medium": "X_third_line_wiener_medium.png",
+        "wiener_strong": "X_third_line_wiener_strong.png"
+      }
+    },
+    "Y_fourth_line": {
+      "box": [
+        170,
+        504,
+        875,
+        609
+      ],
+      "files": {
+        "original": "Y_fourth_line_original.png",
+        "contrast": "Y_fourth_line_contrast.png",
+        "background": "Y_fourth_line_background.png",
+        "unsharp": "Y_fourth_line_unsharp.png",
+        "threshold_65": "Y_fourth_line_threshold_65.png",
+        "threshold_85": "Y_fourth_line_threshold_85.png",
+        "threshold_105": "Y_fourth_line_threshold_105.png",
+        "wiener_mild": "Y_fourth_line_wiener_mild.png",
+        "wiener_medium": "Y_fourth_line_wiener_medium.png",
+        "wiener_strong": "Y_fourth_line_wiener_strong.png"
+      }
+    },
+    "Z_middle_left_edge": {
+      "box": [
+        162,
+        769,
+        291,
+        854
+      ],
+      "files": {
+        "original": "Z_middle_left_edge_original.png",
+        "contrast": "Z_middle_left_edge_contrast.png",
+        "background": "Z_middle_left_edge_background.png",
+        "unsharp": "Z_middle_left_edge_unsharp.png",
+        "threshold_65": "Z_middle_left_edge_threshold_65.png",
+        "threshold_85": "Z_middle_left_edge_threshold_85.png",
+        "threshold_105": "Z_middle_left_edge_threshold_105.png",
+        "wiener_mild": "Z_middle_left_edge_wiener_mild.png",
+        "wiener_medium": "Z_middle_left_edge_wiener_medium.png",
+        "wiener_strong": "Z_middle_left_edge_wiener_strong.png"
+      }
+    }
+  },
+  "processing": {
+    "original": "unchanged pixels; displayed with nearest-neighbor enlargement",
+    "contrast": "grayscale autocontrast, 1 percent cutoff at each end",
+    "background": "clip(2 * (grayscale - Gaussian(sigma=10 px)) + 180, 0, 255)",
+    "unsharp": "Pillow UnsharpMask radius=1, percent=100, threshold=3",
+    "threshold_65": "black where original grayscale < 65, white elsewhere",
+    "threshold_85": "black where original grayscale < 85, white elsewhere",
+    "threshold_105": "black where original grayscale < 105, white elsewhere",
+    "wiener_mild": "Wiener inverse filter, assumed Gaussian sigma=.65 px, K=.06; reflection pad 24 px; DC normalized; unvalidated PSF hypothesis",
+    "wiener_medium": "Wiener inverse filter, assumed Gaussian sigma=1 px, K=.06; reflection pad 24 px; DC normalized; unvalidated PSF hypothesis",
+    "wiener_strong": "Wiener inverse filter, assumed Gaussian sigma=1 px, K=.02; reflection pad 24 px; DC normalized; unvalidated PSF hypothesis"
+  }
+}

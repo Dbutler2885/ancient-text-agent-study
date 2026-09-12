@@ -1,0 +1,460 @@
+PAIRED TRANSCRIPTION AND TRANSLATION MODES
+
+These modes distinguish letter reading, contextual completion, reference restoration, and English interpretation.
+In modes 2 and 3: {inferred phrase}; [reference-supplied phrase]; […] omitted reference wording.
+Tags apply to whole phrases, which can also contain surviving words.
+Read mode 1 for exact partial-word boundaries and uncertain letters.
+
+MODE 1: IMAGE-ONLY RECORD
+
+Provisional transcription from the supplied screenshot only.
+[…] = missing extent, uncounted; ◊ = unreadable surviving trace(s), uncounted; underdot = uncertain letter.
+S-numbers identify physical groups, not reconstructed manuscript lines.
+
+S01  […] אלהים את השמים ואת הארץ
+  […] God, the heavens and the earth
+  Note: The isolated upper-right group is recorded separately as S02.
+
+S02  ב̣ר̣א̣
+  Possibly ‘created’, if the provisional reading is correct.
+  Note: Damaged word; physical association with S01 is not asserted.
+
+S03  […] ורוח אלהים מרחפת על פני המים
+  […] and the spirit/wind of God hovering over the surface of the waters
+  Note: The translation leaves the ambiguity of רוח open.
+
+S04  ◊[…]הים את האור כי טוב ויבדל אלה[…]
+  […] the light, that [it was] good; and […] separated […]
+  Note: Partial divine-name spellings remain partial. Square brackets in English indicate grammatical supplementation only.
+
+S05  אלהים לאור יומם ולחשך קר[…]
+  God, the light, ‘day/daytime’, and the darkness, [partial word …]
+  Note: Conservative fragment rendering. The preserved לאור has prefixed ל; the English fragment lists the objects without completing the governing clause. יומם is retained exactly in Hebrew; its syntax and vocalization are not settled by the screenshot.
+
+S06  ויקרא
+  And he called
+  Note: Separate physical group to the right of S05; no reconstructed join is printed.
+
+S07  יום אחד
+  One day
+  Note: Separate surviving group.
+
+S08  ויאמר אלהים יהי רקיע בתוך המים ויהי מב[…]
+  And God said, ‘Let there be an expanse within the waters, and let [it] be …’ [partial word]
+  Note: Upper row of the middle block. מב is not expanded to a complete verb or participle.
+
+S09  […] אלהים את הרקיע ויבדל בין המים אשר מת[…]
+  […] God, the expanse, and he separated between the waters which […]
+  Note: Middle row. The final surviving מת is not expanded to מתחת in the translation.
+
+S10  מעל לרקיע ויהי כן ויקרא אלהים לרקיע
+  Above the expanse; and it was so. And God called the expanse […]
+  Note: Lower row. The name assigned to the expanse is not supplied.
+
+S11  יום שני
+  A second day
+  Note: Separate surviving group.
+
+S12  וי◊[…] אלהים יקוו המים מתחת לשמים
+  […] God, ‘Let the waters beneath the heavens be gathered […]’
+  Note: Upper long row of the bottom block. לשמים has a visible initial lamed.
+
+S13  […] ויקרא אלהים ליבשה
+  […] and God called the dry land […]
+  Note: Second long row of the bottom block. Adjacent faint marks are not securely lettered.
+
+S14  כי טוב
+  That [it was] good
+  Note: Separate group near the lower middle.
+
+S15  ויא̣◊
+  Untranslated partial word; וי followed by a probable aleph and an unreadable trace.
+  Note: No completion to ויאמר, וירא, or ויהי.
+
+
+MODE 2: CONTEXTUAL READING
+
+Text order is inferred; physical joins and missing extents are not established.
+The apparent image spellings יומם and לשמים are retained, not silently replaced by the reference.
+
+Genesis 1:1
+This reading associates detached S02 with S01 by textual order. It does not establish a physical join.
+[…] {ברא אלהים} את השמים ואת הארץ
+[…] {God created} the heavens and the earth.
+
+Genesis 1:2
+[…] ורוח אלהים מרחפת על פני המים
+[…] And God’s spirit was hovering over the surface of the waters.
+
+Genesis 1:3
+No securely transcribed surviving group is assigned to this verse. Its presence here is reference restoration, not evidence for a scribal omission or a reconstructed physical gap.
+[…]
+[…]
+
+Genesis 1:4
+[וירא אלהים] את האור כי טוב {ויבדל אלהים} […]
+[God saw] that the light was good. {And God separated} […]
+
+Genesis 1:5
+S06 is associated with S05 because of its position and the reference sequence. S07 supplies the day count separately. The reconstruction does not prove how these pieces originally joined.
+ויקרא אלהים לאור יומם ולחשך {קרא} [לילה] […] יום אחד
+God called the light “Daytime,” and the darkness {he called} [“Night.”] […] one day.
+
+Genesis 1:6
+ויאמר אלהים יהי רקיע בתוך המים ויהי {מבדיל} […]
+God said: Let there be an expanse within the waters, and let it be {a separator} […]
+
+Genesis 1:7
+[ויעש אלהים] את הרקיע ויבדל בין המים אשר {מתחת} [לרקיע ובין המים אשר] מעל לרקיע ויהי כן
+[God made] the expanse and separated the waters which were {below} [the expanse from the waters which were] above the expanse. And it was so.
+
+Genesis 1:8
+S10 crosses the modern boundary between Genesis 1:7 and 1:8. S11 is a separate physical group.
+ויקרא אלהים לרקיע [שמים] […] יום שני
+God called the expanse [“Sky.”] […] a second day.
+
+Genesis 1:9
+{ויאמר אלהים} יקוו המים מתחת לשמים […]
+{God said:} Let the waters beneath the heavens be gathered […]
+
+Genesis 1:10
+The short phrase כי טוב also matches 1:4. Its lower position and neighboring wording favor 1:10, without making the phrase independently diagnostic.
+ויקרא אלהים ליבשה [ארץ] […] [וירא אלהים] כי טוב
+God called the dry land [“Land,”] […] [God saw] that it was good.
+
+MODE 3: REFERENCE-LED RECONSTRUCTION
+
+Text order is inferred; physical joins and missing extents are not established.
+The apparent image spellings יומם and לשמים are retained, not silently replaced by the reference.
+
+Genesis 1:1
+This reading associates detached S02 with S01 by textual order. It does not establish a physical join.
+[בראשית] {ברא אלהים} את השמים ואת הארץ
+[In the beginning,] {God created} the heavens and the earth.
+
+Genesis 1:2
+[והארץ היתה תהו ובהו וחשך על פני תהום] ורוח אלהים מרחפת על פני המים
+[The earth was formless and empty, and darkness was over the surface of the deep.] And God’s spirit was hovering over the surface of the waters.
+
+Genesis 1:3
+No securely transcribed surviving group is assigned to this verse. Its presence here is reference restoration, not evidence for a scribal omission or a reconstructed physical gap.
+[ויאמר אלהים יהי אור ויהי אור]
+[God said, “Let there be light,” and there was light.]
+
+Genesis 1:4
+[וירא אלהים] את האור כי טוב {ויבדל אלהים} [בין האור ובין החשך]
+[God saw] that the light was good. {And God separated} [the light from the darkness.]
+
+Genesis 1:5
+S06 is associated with S05 because of its position and the reference sequence. S07 supplies the day count separately. The reconstruction does not prove how these pieces originally joined.
+ויקרא אלהים לאור יומם ולחשך {קרא} [לילה] [ויהי ערב ויהי בקר] יום אחד
+God called the light “Daytime,” and the darkness {he called} [“Night.”] [There was evening and there was morning:] one day.
+
+Genesis 1:6
+ויאמר אלהים יהי רקיע בתוך המים ויהי {מבדיל} [בין מים למים]
+God said: Let there be an expanse within the waters, and let it be {a separator} [between waters and waters.]
+
+Genesis 1:7
+[ויעש אלהים] את הרקיע ויבדל בין המים אשר {מתחת} [לרקיע ובין המים אשר] מעל לרקיע ויהי כן
+[God made] the expanse and separated the waters which were {below} [the expanse from the waters which were] above the expanse. And it was so.
+
+Genesis 1:8
+S10 crosses the modern boundary between Genesis 1:7 and 1:8. S11 is a separate physical group.
+ויקרא אלהים לרקיע [שמים] [ויהי ערב ויהי בקר] יום שני
+God called the expanse [“Sky.”] [There was evening and there was morning:] a second day.
+
+Genesis 1:9
+{ויאמר אלהים} יקוו המים מתחת לשמים [אל מקום אחד ותראה היבשה ויהי כן]
+{God said:} Let the waters beneath the heavens be gathered [into one place, and let the dry land appear. And it was so.]
+
+Genesis 1:10
+The short phrase כי טוב also matches 1:4. Its lower position and neighboring wording favor 1:10, without making the phrase independently diagnostic.
+ויקרא אלהים ליבשה [ארץ] [ולמקוה המים קרא ימים] [וירא אלהים] כי טוב
+God called the dry land [“Land,”] [and the gathering of the waters he called “Seas.”] [God saw] that it was good.
+
+PHRASE DECISION RECORDS
+
+v1-p1 | supplied | No surviving segment
+בראשית
+In the beginning,
+The opening word is supplied entirely from Genesis 1:1. The image cannot adjudicate the syntax of an opening it does not securely preserve.
+
+v1-p2 | inferred | S02 S01
+ברא אלהים
+God created
+S02 provisionally favors ברא; S01 preserves אלהים. Combining them supplies a subject and verb in reference order. All three letters of S02 remain uncertain in the image-only record.
+
+v1-p3 | observed | S01
+את השמים ואת הארץ
+the heavens and the earth.
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v2-p1 | supplied | No surviving segment
+והארץ היתה תהו ובהו וחשך על פני תהום
+The earth was formless and empty, and darkness was over the surface of the deep.
+This entire preceding clause comes from the reference. No transcribed physical group supplies it.
+
+v2-p2 | observed | S03
+ורוח אלהים מרחפת על פני המים
+And God’s spirit was hovering over the surface of the waters.
+The consonants support רוח אלהים and מרחפת. “God’s spirit” is a working lexical choice; “a wind from God” remains viable. “Was” supplies ordinary English grammar.
+
+v3-p1 | supplied | No surviving segment
+ויאמר אלהים יהי אור ויהי אור
+God said, “Let there be light,” and there was light.
+All wording is supplied from Genesis 1:3. Familiarity with this verse is not evidence that any of its letters survive.
+
+v4-p1 | supplied | S04
+וירא אלהים
+God saw
+The reference supplies וירא and completes the partial divine name at the beginning of S04. The image does not securely establish the complete verb.
+
+v4-p2 | observed | S04
+את האור כי טוב
+that the light was good.
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v4-p3 | inferred | S04
+ויבדל אלהים
+And God separated
+ויבדל and the following אלה prefix survive. The repeated divine name and matching syntax favor אלהים; the final ים are completed, not observed.
+
+v4-p4 | supplied | No surviving segment
+בין האור ובין החשך
+the light from the darkness.
+The objects of separation are missing from the transcribed group and supplied from Genesis 1:4.
+
+v5-p1 | observed | S06 S05
+ויקרא אלהים לאור
+God called the light
+The phrase combines separate surviving groups in the reference order. Its verbal reading is visible; the association of the groups is contextual.
+
+v5-p2 | observed | S05
+יומם
+“Daytime,”
+The image reading has both a medial and final mem. “Daytime” is a contextual noun interpretation, supported by a lexical use of יומם; it is not a correction to reference יום.
+
+v5-p3 | observed | S05
+ולחשך
+and the darkness
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v5-p4 | inferred | S05
+קרא
+he called
+The visible קר prefix plus the naming construction favors קרא. The final aleph is a completion, not an observed letter.
+
+v5-p5 | supplied | No surviving segment
+לילה
+“Night.”
+The name is supplied entirely from the reference; no letters of לילה are transcribed in S05.
+
+v5-p6 | supplied | No surviving segment
+ויהי ערב ויהי בקר
+There was evening and there was morning:
+The refrain is reference wording. Neither this restoration nor the line layout establishes its missing physical extent.
+
+v5-p7 | observed | S07
+יום אחד
+one day.
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v6-p1 | observed | S08
+ויאמר אלהים יהי
+God said: Let there be
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v6-p2 | observed | S08
+רקיע
+an expanse
+The noun is readable; the English choice concerns its meaning. “Vault” is an alternative that foregrounds its physical cosmological sense.
+
+v6-p3 | observed | S08
+בתוך המים ויהי
+within the waters, and let it be
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v6-p4 | inferred | S08
+מבדיל
+a separator
+The visible מב prefix, syntax after ויהי, and the parallel in Genesis 1:6 favor the participle מבדיל. Only the prefix is represented as visible in the diplomatic record.
+
+v6-p5 | supplied | No surviving segment
+בין מים למים
+between waters and waters.
+The rest of the clause is supplied from Genesis 1:6.
+
+v7-p1 | supplied | S09
+ויעש אלהים
+God made
+אלהים survives, but the entire preceding verb is supplied from Genesis 1:7. The phrase is labelled supplied because that verb determines its English proposition.
+
+v7-p2 | observed | S09
+את הרקיע ויבדל בין המים אשר
+the expanse and separated the waters which were
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v7-p3 | inferred | S09
+מתחת
+below
+The visible מת prefix is completed by syntax, its contrast with the surviving מעל, and Genesis 1:7. The missing חת are not visually recovered.
+
+v7-p4 | supplied | No surviving segment
+לרקיע ובין המים אשר
+the expanse from the waters which were
+This bridge comes from the reference. Its length and fit in the missing area have not been demonstrated.
+
+v7-p5 | observed | S10
+מעל לרקיע ויהי כן
+above the expanse. And it was so.
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v8-p1 | observed | S10
+ויקרא אלהים לרקיע
+God called the expanse
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v8-p2 | supplied | No surviving segment
+שמים
+“Sky.”
+The missing name is supplied from Genesis 1:8. “Sky” and “heavens” render the same Hebrew noun in different naming contexts.
+
+v8-p3 | supplied | No surviving segment
+ויהי ערב ויהי בקר
+There was evening and there was morning:
+This refrain is supplied from the reference.
+
+v8-p4 | observed | S11
+יום שני
+a second day.
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v9-p1 | inferred | S12
+ויאמר אלהים
+God said:
+The initial וי plus unreadable and missing material does not independently identify the verb. The repeated formula ויאמר אלהים, following יקוו, and Genesis 1:9 favor this completion.
+
+v9-p2 | observed | S12
+יקוו המים מתחת לשמים
+Let the waters beneath the heavens be gathered
+Preserves the visible ל in לשמים. The reference has השמים. The English spatial relation remains “beneath the heavens”; the translation must not conceal the Hebrew difference.
+
+v9-p3 | supplied | No surviving segment
+אל מקום אחד ותראה היבשה ויהי כן
+into one place, and let the dry land appear. And it was so.
+The remainder of the verse is reference restoration, not a recovered continuation.
+
+v10-p1 | observed | S13
+ויקרא אלהים ליבשה
+God called the dry land
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+v10-p2 | supplied | No surviving segment
+ארץ
+“Land,”
+The name is supplied from Genesis 1:10.
+
+v10-p3 | supplied | No surviving segment
+ולמקוה המים קרא ימים
+and the gathering of the waters he called “Seas.”
+This whole clause comes from the reference.
+
+v10-p4 | supplied | S14
+וירא אלהים
+God saw
+The reference supplies the subject and verb before the surviving כי טוב.
+
+v10-p5 | observed | S14
+כי טוב
+that it was good.
+The words are represented in the physical-segment transcription. English word order and grammar are interpretive, not a letter-by-letter correspondence.
+
+WORKING HYPOTHESES
+
+The detached word: ברא?
+Favor ברא, “created,” provisionally.
+The rightmost form is bet-like and the leftmost form aleph-like; the middle letter is weakest. The resulting word fits before the preserved opening clause of Genesis.
+Alternatives: פני was an earlier proposal, but the local shapes fit it less well. A partly unreadable word remains an honest alternative.
+Limit: The textual fit is not independent confirmation of the strokes. All three letters remain dotted, and a physical join with S01 is unproved.
+
+יומם: reading versus meaning
+Preserve יומם in Hebrew; tentatively translate the name as “Daytime.”
+A medial mem-shaped form precedes the closed final mem. The spacing diagnostic favors one graphic word. Brown-Driver-Briggs records both a rare noun “daytime” and the common adverb “by day.” The naming construction favors the noun here.
+Alternatives: An accidental extra mem by the scribe or an erroneous visual reading remain possible. The adverbial sense is less natural as the name given to light in this construction.
+Limit: The screenshot supplies no vowels. Lexical attestation makes the noun interpretation possible; it does not establish scribal intention, an authentic textual variant, or a manuscript family.
+Brown-Driver-Briggs: יומם (via Bible Hub): https://biblehub.com/hebrew/3119.htm
+
+רוח אלהים: English cannot preserve every option
+Use “God’s spirit was hovering,” with “a wind from God” retained as a substantive alternative.
+רוח admits wind, breath, and spirit. The participle מרחפת supports hovering or fluttering; BDB compares the bird imagery in Deuteronomy 32:11. The image preserves the lexical ambiguity rather than resolving it.
+Alternatives: “A wind from God was hovering” assigns a different sense to רוח while retaining the divine relation. The Hebrew script alone does not choose between these readings.
+Limit: This working translation does not establish a later theological identification. The lexical judgment is separate from recognizing the consonants.
+BDB: רוח: https://biblehub.com/hebrew/7307.htm
+BDB: רחף: https://biblehub.com/hebrew/7363.htm
+
+רקיע: expanse or vault?
+Use “expanse,” with “vault” as an explanatory alternative.
+The surviving clauses put waters in relation to this expanse, including waters above it. BDB describes an extended surface and the heavenly vault that supports upper waters.
+Alternatives: “Vault” makes the physical cosmological picture more explicit. “Firmament” carries a traditional English history but needs explanation for many readers.
+Limit: “Expanse” can sound less material than the ancient picture. No pixel treatment can settle this semantic choice, and “atmosphere” would introduce a modern identification not established by the fragment.
+BDB: רקיע: https://biblehub.com/hebrew/7549.htm
+
+לשמים: a difference that English can hide
+Preserve the initial lamed and translate “beneath the heavens.”
+The tall initial ascender agrees with clearer lamed forms in the same hand. The reference has מתחת השמים; the image reading is מתחת לשמים.
+Alternatives: Reading he would harmonize the phrase with the reference, but fits the visible tall stroke less well. The prefixed lamed can be understood as specifying the spatial relation.
+Limit: An English rendering can be the same while the Hebrew differs. This comparison with one reference edition does not establish a historically attested variant or its origin.
+
+The final prefix: a possible next verse
+Conjecture ויאמר, “And [God] said,” as a possible opening of Genesis 1:11.
+The prefix favors וי plus a probable aleph; ויאמר is readable elsewhere in this image. In the reference, that verb begins the verse after the likely 1:10 material.
+Alternatives: The incomplete group cannot uniquely identify a whole word or verse. Earlier complete readings ויהי and וירא were withdrawn after inspection.
+Limit: This is a contextual conjecture, not a completed visual reading. It is kept out of the reconstructed passage; neither מר nor the following אלהים is asserted as visible here.
+
+Completing a repeated name
+Complete the partial divine name as אלהים in the interpretive mode.
+אלה survives, the same complete word recurs locally, and the syntax and reference agree.
+Alternatives: The completion depends on identifying the surviving letters correctly.
+Limit: The repeated formula does not make the missing ים visible.
+
+Completing the naming verb
+Supply the final aleph of קרא, “called.”
+The visible prefix, the light/darkness naming parallel, and the reference agree.
+Alternatives: Without the naming context, קר alone would not uniquely establish this word.
+Limit: The supplied final letter remains an inference.
+
+Completing the separator
+Read מבדיל, “separating” or “a separator,” in the interpretive mode.
+The visible מב, the preceding ויהי construction, and Genesis 1:6 support the participle.
+Alternatives: The two-letter prefix alone does not uniquely determine the missing ending.
+Limit: The three final letters come from contextual completion, not image recovery.
+
+Completing a spatial contrast
+Complete מתחת, “below,” opposite the surviving מעל, “above.”
+The prefix and the above/below opposition fit the local waters passage and reference.
+Alternatives: The prefix alone is not diagnostic, and the intervening clause is absent.
+Limit: Reference restoration is still needed to connect the surviving clauses.
+
+Restoring the speech formula
+Use ויאמר, “said,” before “Let the waters ...”.
+The visible prefix, following directive, repeated local formula, and Genesis 1:9 fit this reading.
+Alternatives: Only וי is secure at the beginning. The following traces do not independently establish אמר.
+Limit: This is a context-dependent verb restoration. The diplomatic mode keeps the unreadable trace and lacuna.
+
+METHOD
+
+Observe: record provisional letters, word windows, and damage by physical group before adding reference restorations.
+Compare locally: inspect disputed shapes against clearer letters in this image. Use filter stability as a diagnostic, not independent corroboration.
+Locate: compare longer preserved phrases with the declared Genesis reference. Short repeated phrases need spatial and sequential context.
+Infer: propose damaged-word completions using visible prefixes, grammar, repetition, and textual fit. Record the dependence on the reference rather than counting it twice.
+Translate: choose English senses separately from Hebrew letter readings, documenting meaningful alternatives with lexical sources.
+Restore: supply larger gaps from the reference only in explicitly marked phrases. No restoration establishes the missing physical extent or original line layout.
+
+SEARCH SCOPE
+
+Image stage: no reverse image search, manuscript-identification search, external manuscript image, OCR service, or generative restoration.
+Location stage: opened Mechon Mamre Genesis 1 directly after recognizing longer phrases. The alignment program compares only Genesis 1:1–11, not the whole Bible.
+Interpretation stage: searched for lexical and translation discussion of Genesis 1 and the Hebrew terms יומם, רוח, רחף, and רקיע. The cited lexical evidence is Brown-Driver-Briggs displayed on Bible Hub. No manuscript identity was sought.
+These stages are sequential, not a blind experiment: familiar wording and earlier discussion were already in context. Proposed spellings have not been independently reviewed by a manuscript specialist.
+
+Reference: https://mechon-mamre.org/p/pt/pt0101.htm
