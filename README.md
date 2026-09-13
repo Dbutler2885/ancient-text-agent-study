@@ -28,12 +28,3 @@ npm run dev
 
 Open `http://127.0.0.1:4173`.
 To check the deployable output, run `npm run build`, then `npm run preview`.
-
-## Deploy to Vercel
-
-Import this GitHub repository into Vercel using the repository root.
-The included `vercel.json` selects **Other**, builds with `npm run build`, and serves `dist`.
-The deployed site uses local static assets and needs no API keys, backend, Python runtime, or Lavish installation.
-
-The original screenshot, analysis scripts, structured findings, and generated site are included.
-See [development and reproduction instructions](docs/DEVELOPMENT.md) to regenerate the analysis or edit the viewer.
